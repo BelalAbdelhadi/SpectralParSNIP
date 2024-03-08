@@ -1,0 +1,2444 @@
+DavidsNM Version  1.25
+min_wave 3000.0 max_wave 8800.0 min_phase -15.0 max_phase 45.0 simul_chi2 0 model_iterations 3 salt2_version salt3-f22 robustchi2 0
+Reading @INSTRUMENT from lc2fit_SDSS_g.dat
+Reading @BAND from lc2fit_SDSS_g.dat
+Reading @MAGSYS from lc2fit_SDSS_g.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+('Skipping ', '@INSTRUMENT  SDSS', 2, 0)
+('Skipping ', '@BAND  SDSS_g', 2, 0)
+('Skipping ', '@MAGSYS  AB', 2, 0)
+(22, ' lines read of ', 25)
+
+("Couldn't find ", '@WEIGHTMAT')
+('Returning default ', None)
+
+1d weight found
+Reading @MAGSYS from lc2fit_SDSS_g.dat
+Reading @INSTRUMENT from lc2fit_SDSS_g.dat
+Reading @BAND from lc2fit_SDSS_g.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_g.dat
+Reading @BAND from lc2fit_SDSS_g.dat
+Reading @MAGSYS from lc2fit_SDSS_g.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_g']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_g from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_g.dat
+Reading @BAND from lc2fit_SDSS_g.dat
+Reading @MAGSYS from lc2fit_SDSS_g.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_g']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_g from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+Reading @INSTRUMENT from lc2fit_SDSS_i.dat
+Reading @BAND from lc2fit_SDSS_i.dat
+Reading @MAGSYS from lc2fit_SDSS_i.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+('Skipping ', '@INSTRUMENT  SDSS', 2, 0)
+('Skipping ', '@BAND  SDSS_i', 2, 0)
+('Skipping ', '@MAGSYS  AB', 2, 0)
+(23, ' lines read of ', 26)
+
+("Couldn't find ", '@WEIGHTMAT')
+('Returning default ', None)
+
+1d weight found
+Reading @MAGSYS from lc2fit_SDSS_i.dat
+Reading @INSTRUMENT from lc2fit_SDSS_i.dat
+Reading @BAND from lc2fit_SDSS_i.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_i.dat
+Reading @BAND from lc2fit_SDSS_i.dat
+Reading @MAGSYS from lc2fit_SDSS_i.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_i']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_i from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_i.dat
+Reading @BAND from lc2fit_SDSS_i.dat
+Reading @MAGSYS from lc2fit_SDSS_i.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_i']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_i from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+Reading @INSTRUMENT from lc2fit_SDSS_r.dat
+Reading @BAND from lc2fit_SDSS_r.dat
+Reading @MAGSYS from lc2fit_SDSS_r.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+('Skipping ', '@INSTRUMENT  SDSS', 2, 0)
+('Skipping ', '@BAND  SDSS_r', 2, 0)
+('Skipping ', '@MAGSYS  AB', 2, 0)
+(19, ' lines read of ', 22)
+
+("Couldn't find ", '@WEIGHTMAT')
+('Returning default ', None)
+
+1d weight found
+Reading @MAGSYS from lc2fit_SDSS_r.dat
+Reading @INSTRUMENT from lc2fit_SDSS_r.dat
+Reading @BAND from lc2fit_SDSS_r.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_r.dat
+Reading @BAND from lc2fit_SDSS_r.dat
+Reading @MAGSYS from lc2fit_SDSS_r.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_r']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_r from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_r.dat
+Reading @BAND from lc2fit_SDSS_r.dat
+Reading @MAGSYS from lc2fit_SDSS_r.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_r']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_r from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+Reading @INSTRUMENT from lc2fit_SDSS_u.dat
+Reading @BAND from lc2fit_SDSS_u.dat
+Reading @MAGSYS from lc2fit_SDSS_u.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+('Skipping ', '@INSTRUMENT  SDSS', 2, 0)
+('Skipping ', '@BAND  SDSS_u', 2, 0)
+('Skipping ', '@MAGSYS  AB', 2, 0)
+(23, ' lines read of ', 26)
+
+("Couldn't find ", '@WEIGHTMAT')
+('Returning default ', None)
+
+1d weight found
+Reading @MAGSYS from lc2fit_SDSS_u.dat
+Reading @INSTRUMENT from lc2fit_SDSS_u.dat
+Reading @BAND from lc2fit_SDSS_u.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_u.dat
+Reading @BAND from lc2fit_SDSS_u.dat
+Reading @MAGSYS from lc2fit_SDSS_u.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_u']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_u from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_u.dat
+Reading @BAND from lc2fit_SDSS_u.dat
+Reading @MAGSYS from lc2fit_SDSS_u.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_u']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_u from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+Reading @INSTRUMENT from lc2fit_SDSS_z.dat
+Reading @BAND from lc2fit_SDSS_z.dat
+Reading @MAGSYS from lc2fit_SDSS_z.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+('Skipping ', '@INSTRUMENT  SDSS', 2, 0)
+('Skipping ', '@BAND  SDSS_z', 2, 0)
+('Skipping ', '@MAGSYS  AB', 2, 0)
+(22, ' lines read of ', 25)
+
+("Couldn't find ", '@WEIGHTMAT')
+('Returning default ', None)
+
+1d weight found
+Reading @MAGSYS from lc2fit_SDSS_z.dat
+Reading @INSTRUMENT from lc2fit_SDSS_z.dat
+Reading @BAND from lc2fit_SDSS_z.dat
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_z.dat
+Reading @BAND from lc2fit_SDSS_z.dat
+Reading @MAGSYS from lc2fit_SDSS_z.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_z']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_z from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+
+("Couldn't find ", '@X_FOCAL_PLANE')
+('Returning default ', None)
+
+
+("Couldn't find ", '@Y_FOCAL_PLANE')
+('Returning default ', None)
+
+Reading @INSTRUMENT from lc2fit_SDSS_z.dat
+Reading @BAND from lc2fit_SDSS_z.dat
+Reading @MAGSYS from lc2fit_SDSS_z.dat
+Reading @SDSS from /home/drubin/salt2_union//fitmodel.card
+[instrument, directory_path, band]  ['SDSS', '/home/drubin/salt2_union//Instruments/SDSS/', 'SDSS_z']
+Reading @OPTICS_TRANS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+Reading @MIRROR_REFLECTIVITY from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+
+("Couldn't find ", '@ATMOSPHERIC_TRANS')
+('Returning default ', None)
+
+Reading @QE from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+self.radialpos None
+Reading @FILTERS from /home/drubin/salt2_union//Instruments/SDSS/instrument.cards
+filters_path /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Reading SDSS_z from /home/drubin/salt2_union//Instruments/SDSS/filterwheel
+Trying @PSF_CORRECTION_FILTERS
+
+("Couldn't find ", '@PSF_CORRECTION_FILTERS')
+('Returning default ', None)
+
+Trying @CHROMATIC_CORRECTIONS
+
+("Couldn't find ", '@CHROMATIC_CORRECTIONS')
+('Returning default ', None)
+
+Setting PSF Correction to 1
+Setting optics to 1
+Setting mirror to 1
+Setting atmosphere to 1
+Setting QE to 1
+Reading magsys...
+all_lc_data {'lc2fl': array(['lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat',
+       'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat',
+       'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat',
+       'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat',
+       'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat',
+       'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat',
+       'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_g.dat',
+       'lc2fit_SDSS_g.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat', 'lc2fit_SDSS_i.dat',
+       'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat',
+       'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat',
+       'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat',
+       'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat',
+       'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat',
+       'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_r.dat',
+       'lc2fit_SDSS_r.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat', 'lc2fit_SDSS_u.dat',
+       'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat',
+       'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat',
+       'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat',
+       'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat',
+       'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat',
+       'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat',
+       'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat', 'lc2fit_SDSS_z.dat',
+       'lc2fit_SDSS_z.dat'], dtype='<U17'), 'date': array([53975.180149, 53996.186004, 53998.154368, 54005.191501,
+       54008.144652, 54010.139319, 54012.131898, 54020.137325,
+       54022.186129, 54028.126971, 54030.129886, 54032.11905 ,
+       54037.110524, 54040.124581, 54050.10821 , 54053.114413,
+       54056.11573 , 54057.084303, 54059.109703, 54061.120489,
+       54062.11428 , 54068.103776, 53975.177662, 53996.183517,
+       53998.151881, 54005.189014, 54008.142164, 54010.136831,
+       54012.12941 , 54020.134838, 54028.124484, 54030.127398,
+       54032.116563, 54034.186743, 54037.108036, 54040.122094,
+       54047.112121, 54050.105723, 54053.111926, 54056.113243,
+       54057.081816, 54059.107215, 54061.118001, 54062.111793,
+       54068.101288, 53975.176832, 53996.182688, 53998.151051,
+       54005.188185, 54008.141335, 54010.136002, 54012.128581,
+       54020.134009, 54028.123655, 54030.126569, 54037.107207,
+       54040.121265, 54050.104894, 54053.111097, 54056.112414,
+       54059.106386, 54061.117172, 54062.110964, 54068.100459,
+       53975.178491, 53996.184346, 53998.15271 , 54005.189843,
+       54008.142993, 54010.13766 , 54012.130239, 54020.135667,
+       54022.18447 , 54028.125313, 54030.128228, 54032.117392,
+       54034.187572, 54037.108865, 54040.122923, 54050.106552,
+       54053.112755, 54056.114072, 54057.082645, 54059.108044,
+       54061.118831, 54062.112622, 54068.102118, 53975.17932 ,
+       53996.185175, 53998.153539, 54005.190672, 54008.143823,
+       54010.13849 , 54012.131069, 54020.136496, 54022.1853  ,
+       54028.126142, 54030.129057, 54032.118221, 54037.109695,
+       54040.123752, 54050.107381, 54053.113584, 54056.114901,
+       54057.083474, 54059.108873, 54061.11966 , 54062.113451,
+       54068.102947]), 'flux': array([ 3.58211873e+01,  4.77799953e+01,  4.45210130e+01,  2.73588806e+01,
+        1.87474340e+01,  1.52067430e+01,  1.74907925e+01,  1.09424475e+01,
+        7.43766055e+00,  5.27789428e+00,  6.07054507e+00,  3.33079043e+00,
+        8.44849744e+00,  3.00213034e+00,  6.49034619e+00,  1.49001777e+00,
+        2.30062059e+00,  3.84449442e+00,  4.43553020e-01, -4.79457063e-01,
+        5.55131738e+00, -9.11962686e+00,  3.54925458e+01,  5.81159699e+01,
+        5.09027042e+01,  3.42356889e+01,  3.51646701e+01,  3.85800421e+01,
+        4.55474009e+01,  3.05744101e+01,  2.33064985e+01,  1.96288259e+01,
+        1.83637721e+01,  1.78391710e+01,  1.27489006e+01,  1.70850569e+01,
+        1.07406618e+01,  6.10941742e+00,  8.75154920e+00,  3.48641173e+00,
+        4.99190771e+00,  1.03827309e+01,  1.22707485e+00,  9.89638189e+00,
+        3.84980731e+00,  3.76088538e+01,  6.34786867e+01,  5.89700229e+01,
+        4.37945205e+01,  3.84336093e+01,  3.98356938e+01,  3.48871604e+01,
+        2.78217544e+01,  2.18312798e+01,  1.69762187e+01,  1.03121938e+01,
+        7.73345802e+00,  1.07025781e+01,  5.50386881e+00,  9.30049359e+00,
+        6.29563415e+00,  1.22778612e+01,  6.65302823e+00,  6.32037681e+00,
+        1.59948447e+01,  9.83179617e+00,  1.09475205e+01,  7.47171768e+00,
+        5.49473250e+00,  4.13013736e+00,  2.21830600e+00, -2.29017095e+00,
+       -8.31620074e+00,  1.32628581e+00, -4.20284120e-01,  2.45067866e+00,
+       -4.59991601e+00, -2.00970191e+00, -7.68423660e+00,  2.26696165e+00,
+        4.37061929e-02,  1.21695042e+01,  7.87997771e+00,  6.82856833e+00,
+       -3.62680308e+00, -7.28436548e+00, -2.33267473e+01,  8.59814294e+01,
+        2.61603072e+01,  1.67566857e+01,  1.20794488e+01,  2.40524106e+01,
+        1.22896924e+01,  2.66026379e+01,  2.12100268e+01,  3.38027976e+01,
+        1.37395539e+01,  2.49152284e+01,  1.73737642e+01,  2.76593166e+01,
+        9.14149970e+00,  5.24243710e+00,  4.56528898e+01,  1.12575876e+01,
+        3.63147987e+01,  8.73466474e+00,  3.12634921e+01, -2.59609854e+00,
+       -2.27390709e+01]), 'covmat': array([[  2.82436724,   0.        ,   0.        , ...,   0.        ,
+          0.        ,   0.        ],
+       [  0.        ,   2.55980603,   0.        , ...,   0.        ,
+          0.        ,   0.        ],
+       [  0.        ,   0.        ,   2.43412653, ...,   0.        ,
+          0.        ,   0.        ],
+       ...,
+       [  0.        ,   0.        ,   0.        , ..., 365.83081051,
+          0.        ,   0.        ],
+       [  0.        ,   0.        ,   0.        , ...,   0.        ,
+        413.56457971,   0.        ],
+       [  0.        ,   0.        ,   0.        , ...,   0.        ,
+          0.        , 347.8824906 ]]), 'model_uncertainties': 0}
+Reading z_heliocentric from lightfile
+Reading MWEBV from lightfile
+other_data {'bandpassfn': {'lc2fit_SDSS_g.dat': <function init_band.<locals>.<lambda> at 0x1497c6257040>, 'lc2fit_SDSS_g.dat_dalpha': <function init_band.<locals>.<lambda> at 0x1497c6210160>, 'lc2fit_SDSS_i.dat': <function init_band.<locals>.<lambda> at 0x1497c59c5940>, 'lc2fit_SDSS_i.dat_dalpha': <function init_band.<locals>.<lambda> at 0x1497c59c5ee0>, 'lc2fit_SDSS_r.dat': <function init_band.<locals>.<lambda> at 0x1497c59c54c0>, 'lc2fit_SDSS_r.dat_dalpha': <function init_band.<locals>.<lambda> at 0x1497c59e15e0>, 'lc2fit_SDSS_u.dat': <function init_band.<locals>.<lambda> at 0x1497c59e1f70>, 'lc2fit_SDSS_u.dat_dalpha': <function init_band.<locals>.<lambda> at 0x1497c59da550>, 'lc2fit_SDSS_z.dat': <function init_band.<locals>.<lambda> at 0x1497c59daee0>, 'lc2fit_SDSS_z.dat_dalpha': <function init_band.<locals>.<lambda> at 0x1497c59e1a60>}, 'bandpasslambs': {'lc2fit_SDSS_g.dat': array([3628., 3629., 3630., ..., 5613., 5614., 5615.]), 'lc2fit_SDSS_g.dat_dalpha': array([3630., 3631., 3632., ..., 5613., 5614., 5615.]), 'lc2fit_SDSS_i.dat': array([6610., 6611., 6612., ..., 8393., 8394., 8395.]), 'lc2fit_SDSS_i.dat_dalpha': array([6611., 6612., 6613., ..., 8393., 8394., 8395.]), 'lc2fit_SDSS_r.dat': array([5385., 5386., 5387., ..., 7035., 7036., 7037.]), 'lc2fit_SDSS_r.dat_dalpha': array([5386., 5387., 5388., ..., 7035., 7036., 7037.]), 'lc2fit_SDSS_u.dat': array([3021., 3022., 3023., ..., 7855., 7856., 7857.]), 'lc2fit_SDSS_u.dat_dalpha': array([3022., 3023., 3024., ..., 7868., 7869., 7870.]), 'lc2fit_SDSS_z.dat': array([ 7719.,  7720.,  7721., ..., 11139., 11140., 11141.]), 'lc2fit_SDSS_z.dat_dalpha': array([ 7781.,  7782.,  7783., ..., 11143., 11144., 11145.])}, 'bandpasseval': {'lc2fit_SDSS_g.dat': array([0.00102443, 0.00111726, 0.0012101 , ..., 0.00125393, 0.00113606,
+       0.0010182 ]), 'lc2fit_SDSS_g.dat_dalpha': array([0.00173968, 0.00187334, 0.00200701, ..., 0.00219807, 0.00199166,
+       0.00178521]), 'lc2fit_SDSS_i.dat': array([0.00103144, 0.00109334, 0.00115524, ..., 0.00148427, 0.00127223,
+       0.00106019]), 'lc2fit_SDSS_i.dat_dalpha': array([0.00211772, 0.00223784, 0.00235799, ..., 0.00343571, 0.00294519,
+       0.00245457]), 'lc2fit_SDSS_r.dat': array([0.00102524, 0.001162  , 0.00129876, ..., 0.00129915, 0.00115071,
+       0.00100227]), 'lc2fit_SDSS_r.dat_dalpha': array([0.00199121, 0.00222578, 0.0024604 , ..., 0.00262534, 0.0023256 ,
+       0.0020258 ]), 'lc2fit_SDSS_u.dat': array([0.00101199, 0.00108969, 0.00116739, ..., 0.00111839, 0.00107641,
+       0.00103443]), 'lc2fit_SDSS_u.dat_dalpha': array([0.00147416, 0.00157943, 0.00168473, ..., 0.00157493, 0.00152253,
+       0.00147012]), 'lc2fit_SDSS_z.dat': array([0.00102801, 0.00108212, 0.00108213, ..., 0.00110166, 0.00110167,
+       0.00104658]), 'lc2fit_SDSS_z.dat_dalpha': array([0.00247585, 0.00259408, 0.00271233, ..., 0.00285367, 0.00268608,
+       0.00251845])}, 'magsysflux': {'lc2fit_SDSS_g.dat': 2.70226764049205e-12, 'lc2fit_SDSS_g.dat_dalpha': 4.320491973161188e-12, 'lc2fit_SDSS_i.dat': 1.5996670302868917e-12, 'lc2fit_SDSS_i.dat_dalpha': 3.3845163853350334e-12, 'lc2fit_SDSS_r.dat': 1.955676796682492e-12, 'lc2fit_SDSS_r.dat_dalpha': 3.6258522651705555e-12, 'lc2fit_SDSS_u.dat': 1.5453133619397527e-12, 'lc2fit_SDSS_u.dat_dalpha': 2.2112876324915634e-12, 'lc2fit_SDSS_z.dat': 1.3332842152198023e-12, 'lc2fit_SDSS_z.dat_dalpha': 3.247462175550063e-12}, 'efflamb': {'lc2fit_SDSS_g.dat': 4749.244767487366, 'lc2fit_SDSS_g.dat_dalpha': 4763.753351590635, 'lc2fit_SDSS_i.dat': 7525.669497511489, 'lc2fit_SDSS_i.dat_dalpha': 7540.336400979634, 'lc2fit_SDSS_r.dat': 6205.843155954768, 'lc2fit_SDSS_r.dat_dalpha': 6217.513565990227, 'lc2fit_SDSS_u.dat': 3611.7367655787457, 'lc2fit_SDSS_u.dat_dalpha': 3622.7652637329033, 'lc2fit_SDSS_z.dat': 8947.393702871552, 'lc2fit_SDSS_z.dat_dalpha': 8975.259416476738}, 'MagSys|Instrument|Band': {'lc2fit_SDSS_g.dat': 'AB|SDSS|SDSS_g', 'lc2fit_SDSS_i.dat': 'AB|SDSS|SDSS_i', 'lc2fit_SDSS_r.dat': 'AB|SDSS|SDSS_r', 'lc2fit_SDSS_u.dat': 'AB|SDSS|SDSS_u', 'lc2fit_SDSS_z.dat': 'AB|SDSS|SDSS_z'}, 'daymax_guess': 53996.182688, 'z_heliocentric': 0.163, 'MWEBV': 0.06006887904716797}
+color for  6470.911003879182
+color for  3105.5346221657314
+color for  7693.37377718964
+color for  4083.6154492582677
+color for  5336.064622489052
+trimming around  53996.182688
+maxruncount  15
+iter F[0] 22 159.74291878643922
+iter F[0] 21 159.74291878643922
+maxruncount  15
+iter F[0] 62 86.0034270224642
+iter F[0] 56 86.0034270224642
+maxruncount  15
+iter F[0] 124 54.49575506172759
+iter F[0] 132 54.49575506172759
+trimming around  53996.182688
+maxruncount  15
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 396.61693528053206 1 1
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 103.44965885456082 2 2
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 35.01498939203626 3 3
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 27.280490408082137 4 4
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 19.599260991264508 5 5
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 17.982417041113102 6 6
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 16.11755981254761 7 7
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 7.916018969813777 8 8
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 6.003164019147377 9 9
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 5.164776284128038 10 10
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 4.897262098123292 11 11
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 4.174429714589657 12 12
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 4.0996506749006585 13 13
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 2.887066084132549 14 14
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 1.3740810569877837 15 15
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 1.1082488487919946 16 16
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 1.0601699248911913 17 17
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 0.951719530504775 18 18
+[5.39874338e+04 9.81161967e+00 2.02279762e+00 6.17781775e-02] 46.864426549964115 0.7831579877810881 19 19
+[5.39877058e+04 9.78979672e+00 1.88362106e+00 4.00120243e-02] 46.778693426943484 0.8493385297694616 20 0
+[5.39872084e+04 9.75684174e+00 1.74669349e+00 3.65887237e-02] 46.68302462776553 0.7827026079344748 21 0
+[5.39874084e+04 9.79146233e+00 1.92551918e+00 3.98535336e-02] 46.66166561518626 0.3853097951168323 22 0
+[5.39873729e+04 9.78046776e+00 1.98048119e+00 3.81218022e-02] 46.582032990628456 0.28239355933565946 23 0
+[5.39874288e+04 9.79563091e+00 1.95343818e+00 5.02110992e-02] 46.54407910887455 0.2346143180689353 24 0
+[5.39874288e+04 9.79563091e+00 1.95343818e+00 5.02110992e-02] 46.54407910887455 0.13894551889098494 25 1
+[5.39872559e+04 9.77091658e+00 1.84570718e+00 3.96146106e-02] 46.48745413481841 0.17421148036785183 26 0
+[5.39872559e+04 9.77091658e+00 1.84570718e+00 3.96146106e-02] 46.48745413481841 0.1219064237815175 27 1
+[5.39871492e+04 9.77561018e+00 1.92267787e+00 4.28447165e-02] 46.46699937125577 0.1423145773970731 28 0
+[5.39871492e+04 9.77561018e+00 1.92267787e+00 4.28447165e-02] 46.46699937125577 0.11503361937268863 29 1
+[5.39873172e+04 9.77981009e+00 1.94606804e+00 4.11450829e-02] 46.465565931348046 0.07851317752650289 30 0
+[5.39873172e+04 9.77981009e+00 1.94606804e+00 4.11450829e-02] 46.465565931348046 0.07427679339599536 31 1
+[5.39873172e+04 9.77981009e+00 1.94606804e+00 4.11450829e-02] 46.465565931348046 0.021888203470361134 32 2
+[5.39873172e+04 9.77981009e+00 1.94606804e+00 4.11450829e-02] 46.465565931348046 0.01990277401962004 33 3
+[5.39871649e+04 9.77400320e+00 1.95110817e+00 3.84932028e-02] 46.44261368705047 0.029526548144026776 34 0
+[5.39871649e+04 9.77400320e+00 1.95110817e+00 3.84932028e-02] 46.44261368705047 0.02916643594452495 35 1
+[5.39871649e+04 9.77400320e+00 1.95110817e+00 3.84932028e-02] 46.44261368705047 0.024385684205299185 36 2
+[5.39871774e+04 9.77523243e+00 1.93318867e+00 4.15080875e-02] 46.44049881208005 0.025067119267994542 37 0
+[5.39871774e+04 9.77523243e+00 1.93318867e+00 4.15080875e-02] 46.44049881208005 0.004453645371675918 38 1
+[5.39871774e+04 9.77523243e+00 1.93318867e+00 4.15080875e-02] 46.44049881208005 0.004123902637815036 39 2
+[5.39871853e+04 9.77577409e+00 1.95616359e+00 4.11400702e-02] 46.4380437323852 0.00573635545836737 40 0
+[5.39871853e+04 9.77577409e+00 1.95616359e+00 4.11400702e-02] 46.4380437323852 0.005175383156341695 41 1
+[5.39871840e+04 9.77317594e+00 1.93005839e+00 3.97970488e-02] 46.43768475698055 0.0050126916759865026 42 0
+[5.39872109e+04 9.77565329e+00 1.94295177e+00 4.04691243e-02] 46.43719275362143 0.005420933429036268 43 0
+[5.39871771e+04 9.77448107e+00 1.94584939e+00 3.96108927e-02] 46.436852815630125 0.0036459964499258035 44 0
+[5.39871833e+04 9.77500176e+00 1.93847223e+00 4.08811858e-02] 46.43671876588759 0.0013249664976058284 45 0
+[5.39871871e+04 9.77517605e+00 1.94774826e+00 4.06648166e-02] 46.43644275153584 0.0012420054447090934 46 0
+[5.39871871e+04 9.77517605e+00 1.94774826e+00 4.06648166e-02] 46.43644275153584 0.0007500020855886191 47 1
+[5.39871983e+04 9.77553152e+00 1.94516617e+00 4.05061692e-02] 46.43616533986574 0.0006874757643871021 48 0
+[5.39871840e+04 9.77507672e+00 1.94652958e+00 4.01889629e-02] 46.435975767393494 0.0008740828318138938 49 0
+[5.39871840e+04 9.77507672e+00 1.94652958e+00 4.01889629e-02] 46.435975767393494 0.0007429984940969803 50 1
+[5.39871868e+04 9.77523496e+00 1.94303733e+00 4.07091017e-02] 46.43597537753753 0.00046737399831187076 51 0
+[5.39871868e+04 9.77523496e+00 1.94303733e+00 4.07091017e-02] 46.43597537753753 0.00018996232820711612 52 1
+[5.39871936e+04 9.77553948e+00 1.94578732e+00 4.05177781e-02] 46.43589600004796 0.00016432428130030985 53 0
+[5.39871936e+04 9.77553948e+00 1.94578732e+00 4.05177781e-02] 46.43589600004796 0.00015547380770186692 54 1
+[5.39871883e+04 9.77507116e+00 1.94218790e+00 4.02986405e-02] 46.43586956661003 0.00010980892909628892 55 0
+[5.39871908e+04 9.77551015e+00 1.94474334e+00 4.04299911e-02] 46.43583754917425 0.0001382182192415371 56 0
+[5.39871908e+04 9.77551015e+00 1.94474334e+00 4.04299911e-02] 46.43583754917425 0.00013782836327891346 57 1
+[5.39871884e+04 9.77528356e+00 1.94376277e+00 4.05527171e-02] 46.43583129380522 6.470624273902104e-05 58 0
+[5.39871911e+04 9.77540383e+00 1.94488469e+00 4.04614227e-02] 46.43582322288807 4.634372196221648e-05 59 0
+[5.39871911e+04 9.77540383e+00 1.94488469e+00 4.04614227e-02] 46.43582322288807 2.619387164060072e-05 60 1
+[5.39871933e+04 9.77570669e+00 1.94502345e+00 4.06795877e-02] 46.43582264292412 2.3573709441393476e-05 61 0
+[5.39871933e+04 9.77570669e+00 1.94502345e+00 4.06795877e-02] 46.43582264292412 1.490625012934288e-05 62 1
+[5.39871909e+04 9.77546941e+00 1.94434085e+00 4.04853333e-02] 46.435804792383706 2.7131900793619934e-05 63 0
+[5.39871909e+04 9.77546941e+00 1.94434085e+00 4.04853333e-02] 46.435804792383706 2.6501421515945367e-05 64 1
+[5.39871909e+04 9.77546941e+00 1.94434085e+00 4.04853333e-02] 46.435804792383706 1.843050436178828e-05 65 2
+[5.39871909e+04 9.77546941e+00 1.94434085e+00 4.04853333e-02] 46.435804792383706 1.785054041647527e-05 66 3
+[5.39871909e+04 9.77546941e+00 1.94434085e+00 4.04853333e-02] 46.435804792383706 4.053941374593251e-06 67 4
+[5.39871909e+04 9.77546941e+00 1.94434085e+00 4.04853333e-02] 46.435804792383706 3.126477473358591e-06 68 5
+[5.39871915e+04 9.77545044e+00 1.94385848e+00 4.05149946e-02] 46.43580209154987 4.016993884192743e-06 69 0
+[5.39871921e+04 9.77551600e+00 1.94429962e+00 4.05150999e-02] 46.4358020481668 3.980367971223586e-06 70 0
+[5.39871921e+04 9.77551600e+00 1.94429962e+00 4.05150999e-02] 46.4358020481668 3.2628994190986305e-06 71 1
+[5.39871918e+04 9.77552721e+00 1.94412345e+00 4.05376824e-02] 46.43580162852381 3.447374503195988e-06 72 0
+[5.39871918e+04 9.77552816e+00 1.94434875e+00 4.05542091e-02] 46.43580076987018 4.022513529378102e-06 73 0
+[5.39871918e+04 9.77552816e+00 1.94434875e+00 4.05542091e-02] 46.43580076987018 1.3216796901360794e-06 74 1
+[5.39871918e+04 9.77552816e+00 1.94434875e+00 4.05542091e-02] 46.43580076987018 1.2782966223312542e-06 75 2
+[5.39871918e+04 9.77552816e+00 1.94434875e+00 4.05542091e-02] 46.43580076987018 9.076982010469692e-07 76 3
+[5.39871918e+04 9.77552816e+00 1.94434875e+00 4.05542091e-02] 46.43580076987018 8.586536353050178e-07 77 4
+[5.39871918e+04 9.77552816e+00 1.94434875e+00 4.05542091e-02] 46.43580076987018 7.85676753878306e-07 78 5
+[5.39871914e+04 9.77549638e+00 1.94414884e+00 4.05397579e-02] 46.43580069324437 3.1462032978879506e-07 79 0
+[5.39871914e+04 9.77551648e+00 1.94440543e+00 4.05546524e-02] 46.43580044144926 4.0312676929943336e-07 80 0
+[5.39871914e+04 9.77551648e+00 1.94440543e+00 4.05546524e-02] 46.43580044144926 3.517560429600053e-07 81 1
+[5.39871915e+04 9.77550323e+00 1.94424517e+00 4.05354174e-02] 46.435800347922246 4.2194793081762327e-07 82 0
+[5.39871915e+04 9.77550323e+00 1.94424517e+00 4.05354174e-02] 46.435800347922246 3.4532212112026173e-07 83 1
+[5.39871915e+04 9.77550323e+00 1.94424517e+00 4.05354174e-02] 46.435800347922246 1.559464308797942e-07 84 2
+[5.39871915e+04 9.77551213e+00 1.94437817e+00 4.05466622e-02] 46.435800340662176 1.0654313342683963e-07 85 0
+[5.39871915e+04 9.77551213e+00 1.94437817e+00 4.05466622e-02] 46.435800340662176 1.0489798540902484e-07 86 1
+[5.39871912e+04 9.77551669e+00 1.94447272e+00 4.05460954e-02] 46.43580016279728 2.786519814890198e-07 87 0
+[5.39871912e+04 9.77551669e+00 1.94447272e+00 4.05460954e-02] 46.43580016279728 1.8512496779976573e-07 88 1
+[5.39871912e+04 9.77551669e+00 1.94447272e+00 4.05460954e-02] 46.43580016279728 1.8009661317819337e-07 89 2
+[5.39871912e+04 9.77551669e+00 1.94447272e+00 4.05460954e-02] 46.43580016279728 1.778648979211539e-07 90 3
+[5.39871912e+04 9.77551669e+00 1.94447272e+00 4.05460954e-02] 46.43580016279728 1.192814593764524e-07 91 4
+[5.39871912e+04 9.77551669e+00 1.94447272e+00 4.05460954e-02] 46.43580016279728 5.321466289842647e-08 92 5
+[5.39871912e+04 9.77551669e+00 1.94447272e+00 4.05460954e-02] 46.43580016279728 5.2143938944482215e-08 93 6
+[5.39871911e+04 9.77550241e+00 1.94447751e+00 4.05416004e-02] 46.43580011288249 7.62667511366999e-08 94 0
+[5.39871913e+04 9.77550233e+00 1.94439032e+00 4.05374727e-02] 46.43580011149233 6.509760197559444e-08 95 0
+[5.39871913e+04 9.77550233e+00 1.94439032e+00 4.05374727e-02] 46.43580011149233 6.221922888016707e-08 96 1
+[5.39871913e+04 9.77550233e+00 1.94439032e+00 4.05374727e-02] 46.43580011149233 5.130495139837876e-08 97 2
+[5.39871913e+04 9.77550233e+00 1.94439032e+00 4.05374727e-02] 46.43580011149233 3.579132368258797e-08 98 3
+[5.39871913e+04 9.77550224e+00 1.94441183e+00 4.05372163e-02] 46.43580010398017 1.567347851505474e-08 99 0
+[5.39871913e+04 9.77550892e+00 1.94443590e+00 4.05396378e-02] 46.43580009518946 1.866762033841951e-08 100 0
+[5.39871913e+04 9.77550892e+00 1.94443590e+00 4.05396378e-02] 46.43580009518946 1.76930328166236e-08 101 1
+[5.39871912e+04 9.77550266e+00 1.94444928e+00 4.05395985e-02] 46.435800090934855 2.0557472169002722e-08 102 0
+[5.39871912e+04 9.77550266e+00 1.94444928e+00 4.05395985e-02] 46.435800090934855 2.015102751329323e-08 103 1
+[5.39871912e+04 9.77550362e+00 1.94448123e+00 4.05387835e-02] 46.43580008856383 1.5416340204410517e-08 104 0
+[5.39871912e+04 9.77550362e+00 1.94448123e+00 4.05387835e-02] 46.43580008856383 1.206812783038913e-08 105 1
+[5.39871912e+04 9.77550362e+00 1.94448123e+00 4.05387835e-02] 46.43580008856383 1.0208104583853128e-08 106 2
+[5.39871912e+04 9.77550362e+00 1.94448123e+00 4.05387835e-02] 46.43580008856383 6.625626269851637e-09 107 3
+[5.39871912e+04 9.77550716e+00 1.94445274e+00 4.05398301e-02] 46.43580008616531 7.594650242026546e-09 108 0
+[5.39871912e+04 9.77550716e+00 1.94445274e+00 4.05398301e-02] 46.43580008616531 4.769546535499103e-09 109 1
+[5.39871912e+04 9.77550716e+00 1.94445274e+00 4.05398301e-02] 46.43580008616531 3.2741311883910384e-09 110 2
+[5.39871912e+04 9.77550712e+00 1.94447919e+00 4.05397231e-02] 46.435800085759446 3.380506541361683e-09 111 0
+[5.39871912e+04 9.77550515e+00 1.94447217e+00 4.05394956e-02] 46.43580008568804 2.8757938252965687e-09 112 0
+[5.39871912e+04 9.77550522e+00 1.94447477e+00 4.05393905e-02] 46.43580008521582 1.2791758763341932e-09 113 0
+[5.39871912e+04 9.77550522e+00 1.94447477e+00 4.05393905e-02] 46.43580008521582 1.1326761750751757e-09 114 1
+[5.39871912e+04 9.77550530e+00 1.94447001e+00 4.05389443e-02] 46.435800085022024 1.143284578120074e-09 115 0
+[5.39871912e+04 9.77550643e+00 1.94446338e+00 4.05396092e-02] 46.43580008462645 1.1329959193062678e-09 116 0
+[5.39871912e+04 9.77550643e+00 1.94446338e+00 4.05396092e-02] 46.43580008462645 1.0615863743623777e-09 117 1
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 7.635705401298765e-10 118 0
+iter F[0] 119 46.43580008459796
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 391.97223589177725 1 1
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 99.95722659594577 2 2
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 32.199228556811036 3 3
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 28.894093949911664 4 4
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 19.9248823103636 5 5
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 17.424541738684304 6 6
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 8.713158738309417 7 7
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 7.896225188071995 8 8
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.872658799629818 9 9
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 4.769339047612291 10 10
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 4.258831214443127 11 11
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.9905347595327854 12 12
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.4146056304776593 13 13
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.3207506647210323 14 14
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.316732036499154 15 15
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.2199396774953328 16 16
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.0644563839952497 17 17
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.5290209639634611 18 18
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.5194588058789407 19 19
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.37755499201023923 20 20
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.3128338060231073 21 21
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.2943774823951486 22 22
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.2852766074906725 23 23
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.26944415100982155 24 24
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.10546603686610467 25 25
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.10104107728297151 26 26
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.09283090145025596 27 27
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.08533819420543409 28 28
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.04638923906307468 29 29
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.03033944508513997 30 30
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.03004195244058394 31 31
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.02615997885506971 32 32
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.018918687912126586 33 33
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.017696420553967585 34 34
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.012902623135232716 35 35
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.011496587671771863 36 36
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.009454359222431208 37 37
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0059930989406709045 38 38
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.005194699511626766 39 39
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.004065686076728525 40 40
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.003300390376956841 41 41
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.002948161477959843 42 42
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.002558822725831078 43 43
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.002418857406986774 44 44
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.002245686382572387 45 45
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0019035655966632703 46 46
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.001566218076362702 47 47
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0014406890479676804 48 48
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0013954315492199498 49 49
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.001057004732295752 50 50
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0007634897733552748 51 51
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0005634990093881243 52 52
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0005341647856127452 53 53
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0005084864258577682 54 54
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00048681139587358757 55 55
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.0004472157445860603 56 56
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00036136890373228425 57 57
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00030887758328645987 58 58
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00026240723575199354 59 59
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00024887219579028397 60 60
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00017069005158276696 61 61
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00015493669165067558 62 62
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00015213168822469925 63 63
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 0.00010428427181352617 64 64
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 8.361136237766686e-05 65 65
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.765409113285159e-05 66 66
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.423339315375642e-05 67 67
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.315503257070532e-05 68 68
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.933339453179087e-05 69 69
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.4155510057587435e-05 70 70
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.055732360479624e-05 71 71
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.803587268829233e-05 72 72
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.740448961446873e-05 73 73
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.599849522511022e-05 74 74
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.537323625517729e-05 75 75
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.1556246572629334e-05 76 76
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.3256631085312165e-05 77 77
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.2180816675311235e-05 78 78
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.1508820577432743e-05 79 79
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 8.810546212600912e-06 80 80
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.9067950505541376e-06 81 81
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.935763276454509e-06 82 82
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.820957717617148e-06 83 83
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 4.475046807783656e-06 84 84
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 4.367375744607216e-06 85 85
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.5753655751591396e-06 86 86
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.511562482572117e-06 87 87
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.401086867109825e-06 88 88
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.2589617785229166e-06 89 89
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.0585058138067325e-06 90 90
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.96341852642945e-06 91 91
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.6085445224689465e-06 92 92
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.5360803971020687e-06 93 93
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.45778473381597e-06 94 94
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.4130854779637048e-06 95 95
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.412551556422841e-07 96 96
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.4113098829921e-07 97 97
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.56649183636182e-07 98 98
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.476680726701488e-07 99 99
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.302746330926311e-07 100 100
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.107185359065625e-07 101 101
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 4.367553501083421e-07 102 102
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.662820020622348e-07 103 103
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.461588195501463e-07 104 104
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.0387076204997356e-07 105 105
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.9312892618472688e-07 106 106
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.7760751092055216e-07 107 107
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.7114707162591003e-07 108 108
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.5263779573615466e-07 109 109
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.4603222808773353e-07 110 110
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.2493232759425155e-07 111 111
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 9.303006009986348e-08 112 112
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 6.996099699563274e-08 113 113
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.7469165426482505e-08 114 114
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 5.31794981384337e-08 115 115
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.4949501070968836e-08 116 116
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 3.208361221140876e-08 117 117
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 2.696590684081457e-08 118 118
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.8287273917394486e-08 119 119
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.7239479177533212e-08 120 120
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.611950040114607e-08 121 121
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.5520726037721033e-08 122 122
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 1.1365919760919496e-08 123 123
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.43580008459796 7.94262433601034e-09 124 124
+iter F[0] 125 46.43580008459796
+goal  0.1
+free_params  [0, 1, 2, 3]
+displ_params  [0.1, 0.1, 0.1, 0.01]
+dx[free_params.index(i)],  0.1
+1 1.0 1000000.0 -1000000.0 70.51488212379253
+1 0.5 1000000.0 1.0 52.735917037659476
+1 0.25 1000000.0 1.0 48.04729480033155
+1 0.125 1000000.0 1.0 46.84332124163478
+dx[free_params.index(i)],  0.00625
+dx[free_params.index(i)],  0.1
+3 1.0 1000000.0 -1000000.0 46.72336707438997
+dx[free_params.index(i)],  0.005
+dx  [0.1     0.00625 0.1     0.005  ]
+0
+1
+2
+3
+Weight Matrix  [[    6.74772586  -119.39236401     9.86053151    73.67862435]
+ [ -119.39236401  2638.41141944  -183.41891726 -2053.5697147 ]
+ [    9.86053151  -183.41891726    19.92481408    98.1485901 ]
+ [   73.67862435 -2053.5697147     98.1485901   2840.66958861]]
+final chi2 from NM 46.43580008459796
+trimming around  53996.182688
+maxruncount  15
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 391.2115600936113 1 1
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 99.84098342716433 2 2
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 32.316906113918556 3 3
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 29.149869822920174 4 4
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 19.77618589558667 5 5
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 17.45254303912013 6 6
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 8.822938113190737 7 7
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 7.899644898053225 8 8
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 6.837874753268295 9 9
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 4.750247392565093 10 10
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 4.269763464575483 11 11
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 4.060699982866559 12 12
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 2.4143831587951894 13 13
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 1.340841167171824 14 14
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 1.3148989706688923 15 15
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 1.2334375599820788 16 16
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 1.1044556561592245 17 17
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.5364531866856481 18 18
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.5282120011739764 19 19
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.39689593301572756 20 20
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.3218572704161673 21 21
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.3017914683503804 22 22
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.2931574638666987 23 23
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.18383547336179618 24 24
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.11775032278053743 25 25
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.10465535555429994 26 26
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.09571141013119444 27 27
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.07134769647728945 28 28
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.06285685675606345 29 29
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.03791311066518688 30 30
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.037631841536665434 31 31
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.037129900065885124 32 32
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.032447584179422506 33 33
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.02554453719293548 34 34
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.02225459376771255 35 35
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.015257941104458439 36 36
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.013835618745339673 37 37
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.012554140142889025 38 38
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.009391910828092875 39 39
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.008029998575437958 40 40
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.007106549554841024 41 41
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.006344372681752475 42 42
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.004967115609545658 43 43
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.004766599200891619 44 44
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.004112857355011101 45 45
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.0038512225540543454 46 46
+[5.39871912e+04 9.77550529e+00 1.94446240e+00 4.05389747e-02] 46.335433732791195 0.0017036262704763772 47 47
+[5.39871600e+04 9.77338109e+00 1.95055268e+00 3.96518710e-02] 46.33529268041374 0.000867655560988112 48 0
+[5.39871600e+04 9.77338109e+00 1.95055268e+00 3.96518710e-02] 46.33529268041374 0.0007328215933313231 49 1
+[5.39871578e+04 9.77264947e+00 1.93925246e+00 3.96260164e-02] 46.33485561502053 0.0011298996507278503 50 0
+[5.39871578e+04 9.77264947e+00 1.93925246e+00 3.96260164e-02] 46.33485561502053 0.0009617526201779469 51 1
+[5.39871585e+04 9.77397403e+00 1.94608802e+00 4.05290877e-02] 46.334762178487495 0.0009004029446302297 52 0
+[5.39871687e+04 9.77432314e+00 1.94664106e+00 4.06267357e-02] 46.33474746450469 0.0006862682865076408 53 0
+[5.39871762e+04 9.77454361e+00 1.94504798e+00 4.03237012e-02] 46.334694537345065 0.0005981430686716749 54 0
+[5.39871627e+04 9.77362683e+00 1.94740503e+00 3.99641281e-02] 46.33465422326883 0.00020139175170186263 55 0
+[5.39871622e+04 9.77338319e+00 1.94277399e+00 3.99934648e-02] 46.33454938602367 0.00021279246382732708 56 0
+[5.39871622e+04 9.77338319e+00 1.94277399e+00 3.99934648e-02] 46.33454938602367 0.00019807848102004755 57 1
+[5.39871622e+04 9.77338319e+00 1.94277399e+00 3.99934648e-02] 46.33454938602367 0.0001451513213979183 58 2
+[5.39871622e+04 9.77338319e+00 1.94277399e+00 3.99934648e-02] 46.33454938602367 0.0001048372451606383 59 3
+[5.39871641e+04 9.77376520e+00 1.94617244e+00 4.01096362e-02] 46.334539234647366 3.206037097669423e-05 60 0
+[5.39871641e+04 9.77376520e+00 1.94617244e+00 4.01096362e-02] 46.334539234647366 2.4310843500074952e-05 61 1
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 4.0016507746543084e-05 62 0
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 3.639461965576629e-05 63 1
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 3.463415167459516e-05 64 2
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 2.4482775373257937e-05 65 3
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 2.424784727139695e-05 66 4
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 2.2303263477851942e-05 67 5
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 1.8346292556259414e-05 68 6
+[5.39871638e+04 9.77384107e+00 1.94517064e+00 4.02299998e-02] 46.33451475187199 4.172405368763066e-06 69 7
+[5.39871654e+04 9.77383271e+00 1.94489831e+00 4.01689694e-02] 46.3345120650229 5.8479774125430595e-06 70 0
+[5.39871654e+04 9.77383271e+00 1.94489831e+00 4.01689694e-02] 46.3345120650229 5.529997700648437e-06 71 1
+[5.39871637e+04 9.77372084e+00 1.94484113e+00 4.01183815e-02] 46.334511662151364 3.968480001503849e-06 72 0
+[5.39871640e+04 9.77370437e+00 1.94458288e+00 4.01286961e-02] 46.33451067473475 4.785027563514177e-06 73 0
+[5.39871640e+04 9.77370437e+00 1.94458288e+00 4.01286961e-02] 46.33451067473475 4.077137241154105e-06 74 1
+[5.39871641e+04 9.77380010e+00 1.94492498e+00 4.01905862e-02] 46.33451044777609 3.7325511996755267e-06 75 0
+[5.39871642e+04 9.77377155e+00 1.94460338e+00 4.01701508e-02] 46.33451038865054 1.6763723564849897e-06 76 0
+[5.39871647e+04 9.77379096e+00 1.94481820e+00 4.01604615e-02] 46.33451007713274 1.5850186230181862e-06 77 0
+[5.39871640e+04 9.77374379e+00 1.94478674e+00 4.01404276e-02] 46.33451001119038 6.635443696723087e-07 78 0
+[5.39871641e+04 9.77374049e+00 1.94468310e+00 4.01470513e-02] 46.33450964211768 8.056584093196761e-07 79 0
+[5.39871641e+04 9.77374049e+00 1.94468310e+00 4.01470513e-02] 46.33450964211768 7.465328621947265e-07 80 1
+[5.39871641e+04 9.77374049e+00 1.94468310e+00 4.01470513e-02] 46.33450964211768 4.3501506041820903e-07 81 2
+[5.39871641e+04 9.77374049e+00 1.94468310e+00 4.01470513e-02] 46.33450964211768 3.6907270128949676e-07 82 3
+[5.39871641e+04 9.77374049e+00 1.94468310e+00 4.01470513e-02] 46.33450964211768 2.538167365173649e-07 83 4
+[5.39871644e+04 9.77377702e+00 1.94472408e+00 4.01699016e-02] 46.334509600001645 1.2705608298801963e-07 84 0
+[5.39871644e+04 9.77377702e+00 1.94472408e+00 4.01699016e-02] 46.334509600001645 7.104316779305009e-08 85 1
+[5.39871644e+04 9.77377702e+00 1.94472408e+00 4.01699016e-02] 46.334509600001645 6.376438221877834e-08 86 2
+[5.39871641e+04 9.77375918e+00 1.94477268e+00 4.01668913e-02] 46.33450942206186 2.4088578953751494e-07 87 0
+[5.39871641e+04 9.77375918e+00 1.94477268e+00 4.01668913e-02] 46.33450942206186 2.3921979419583295e-07 88 1
+[5.39871641e+04 9.77375918e+00 1.94477268e+00 4.01668913e-02] 46.33450942206186 2.2005581712392086e-07 89 2
+[5.39871641e+04 9.77375918e+00 1.94477268e+00 4.01668913e-02] 46.33450942206186 1.7793978202007565e-07 90 3
+[5.39871640e+04 9.77374864e+00 1.94482717e+00 4.01565828e-02] 46.334509414393445 5.081795251271615e-08 91 0
+[5.39871642e+04 9.77376408e+00 1.94478607e+00 4.01638337e-02] 46.33450939139452 5.449739148843946e-08 92 0
+[5.39871642e+04 9.77376408e+00 1.94478607e+00 4.01638337e-02] 46.33450939139452 3.6164095718049794e-08 93 1
+[5.39871642e+04 9.77376299e+00 1.94481456e+00 4.01630387e-02] 46.33450938024529 4.181657686785911e-08 94 0
+[5.39871641e+04 9.77375966e+00 1.94479876e+00 4.01648768e-02] 46.33450937718157 3.721187624705635e-08 95 0
+[5.39871640e+04 9.77375577e+00 1.94482245e+00 4.01607593e-02] 46.334509370618605 2.6750448967050033e-08 96 0
+[5.39871640e+04 9.77375577e+00 1.94482245e+00 4.01607593e-02] 46.334509370618605 2.077591432225745e-08 97 1
+[5.39871640e+04 9.77375577e+00 1.94482245e+00 4.01607593e-02] 46.334509370618605 9.626681674035353e-09 98 2
+[5.39871640e+04 9.77375577e+00 1.94482245e+00 4.01607593e-02] 46.334509370618605 6.562963505984953e-09 99 3
+[5.39871640e+04 9.77375577e+00 1.94482245e+00 4.01607593e-02] 46.334509370618605 2.6392896756988193e-09 100 4
+[5.39871641e+04 9.77375928e+00 1.94484111e+00 4.01623350e-02] 46.33450936198979 1.0229783242721169e-08 101 0
+[5.39871641e+04 9.77375928e+00 1.94484111e+00 4.01623350e-02] 46.33450936198979 9.459292016344989e-09 102 1
+[5.39871641e+04 9.77375928e+00 1.94484111e+00 4.01623350e-02] 46.33450936198979 8.927976580253016e-09 103 2
+[5.39871641e+04 9.77375928e+00 1.94484111e+00 4.01623350e-02] 46.33450936198979 8.628816772215941e-09 104 3
+[5.39871641e+04 9.77375928e+00 1.94484111e+00 4.01623350e-02] 46.33450936198979 6.835897181645123e-09 105 4
+[5.39871641e+04 9.77375736e+00 1.94481407e+00 4.01613818e-02] 46.33450936190181 1.4295551409304608e-09 106 0
+[5.39871641e+04 9.77375892e+00 1.94482127e+00 4.01631056e-02] 46.33450936051765 2.654772401911032e-09 107 0
+[5.39871640e+04 9.77375773e+00 1.94484565e+00 4.01623853e-02] 46.334509358216664 4.2514258780101954e-09 108 0
+[5.39871640e+04 9.77375773e+00 1.94484565e+00 4.01623853e-02] 46.334509358216664 3.773124035433284e-09 109 1
+[5.39871640e+04 9.77375773e+00 1.94484565e+00 4.01623853e-02] 46.334509358216664 3.6851446338914684e-09 110 2
+[5.39871640e+04 9.77375773e+00 1.94484565e+00 4.01623853e-02] 46.334509358216664 2.3009860683487204e-09 111 3
+[5.39871640e+04 9.77375773e+00 1.94484565e+00 4.01623853e-02] 46.334509358216664 1.4164385220283293e-09 112 4
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.1982166370216873e-09 113 0
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 9.674394618741644e-10 114 1
+iter F[0] 115 46.33450935810786
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 390.84811849690425 1 1
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 99.58736008162529 2 2
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 32.44682092058763 3 3
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 28.978820453254194 4 4
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 19.867230098617362 5 5
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 17.318462185332827 6 6
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 8.724404547347007 7 7
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 7.955055719860958 8 8
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 6.848704652287132 9 9
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 4.752252102930292 10 10
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 4.236899345308807 11 11
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.9765201913929786 12 12
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.431749169145263 13 13
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.3122990519740796 14 14
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.2187258808487087 15 15
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.0588483504689208 16 16
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.7873628243898239 17 17
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.5359909039134507 18 18
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.5330686365481228 19 19
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.4803229050011524 20 20
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.4380201380846813 21 21
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.18538352534738323 22 22
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.1465264990678392 23 23
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.13961147168743082 24 24
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.11150487430656852 25 25
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.05932255050363011 26 26
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.04937235050951472 27 27
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.04343969288476757 28 28
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.040630314064856066 29 29
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.01591767759347107 30 30
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.015864872978283984 31 31
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.015228098856681527 32 32
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.013969517021003242 33 33
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00938078243602547 34 34
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00544493298183113 35 35
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.005161683981981469 36 36
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.004510162833831544 37 37
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0036351894771229354 38 38
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0033989188455691988 39 39
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.003092684984103755 40 40
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0019976535847163746 41 41
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.001865499219213973 42 42
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.001716485465387052 43 43
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0015086270997883844 44 44
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0014345584398043343 45 45
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0012397359130673635 46 46
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0008130885368871077 47 47
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0008129860664567445 48 48
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0007838212901631891 49 49
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0006111301343239006 50 50
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0005757688809850947 51 51
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0005620295429835664 52 52
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00052014707590331 53 53
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00039654951448397924 54 54
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00036989460287628617 55 55
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0002345288290612757 56 56
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0002256920891881009 57 57
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.0001939318569839088 58 58
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00018298597777999248 59 59
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.000171288084075627 60 60
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00015298790590634326 61 61
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 0.00015010664372994142 62 62
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 6.671080804920848e-05 63 63
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 5.80043000582009e-05 64 64
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 5.374603721719495e-05 65 65
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 5.302871326762215e-05 66 66
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.7674190650704986e-05 67 67
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.8815346418298304e-05 68 68
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.3946341627834045e-05 69 69
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.3712536915354576e-05 70 70
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.0767912552344114e-05 71 71
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.6334381314209168e-05 72 72
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.2431390096878658e-05 73 73
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.1892100495458635e-05 74 74
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.0108863691016268e-05 75 75
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.0052396781645712e-05 76 76
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 9.131112932436736e-06 77 77
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 8.914579396446243e-06 78 78
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 4.058164961406874e-06 79 79
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.87505577492675e-06 80 80
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.789817071719881e-06 81 81
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.7865474027398704e-06 82 82
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.3963858001584413e-06 83 83
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.4074187194855767e-06 84 84
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.3034111649167244e-06 85 85
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.1504062956978487e-06 86 86
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.085527178508073e-06 87 87
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.6948835295238496e-06 88 88
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.6077923419288709e-06 89 89
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.2618588840496159e-06 90 90
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 7.304966160859294e-07 91 91
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 6.627865545283385e-07 92 92
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 5.67624653058374e-07 93 93
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 5.663975670699983e-07 94 94
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 4.4933333498420325e-07 95 95
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.722828540413502e-07 96 96
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.6495843741258795e-07 97 97
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.4112327423608804e-07 98 98
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 2.3487158529178487e-07 99 99
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.6107122036146393e-07 100 100
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.1213473527504902e-07 101 101
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.1152768308875238e-07 102 102
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 9.923180499527007e-08 103 103
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 8.025132558486803e-08 104 104
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 6.973470334514786e-08 105 105
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 6.470164493066477e-08 106 106
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 5.6273798065831215e-08 107 107
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 4.788019225543394e-08 108 108
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.732729680905322e-08 109 109
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.640722212594483e-08 110 110
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 3.020685568344561e-08 111 111
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.8119678202310752e-08 112 112
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.4475048715212324e-08 113 113
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.3323806058451737e-08 114 114
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 1.2642118463190855e-08 115 115
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.33450935810786 8.248953520251234e-09 116 116
+iter F[0] 117 46.33450935810786
+goal  0.1
+free_params  [0, 1, 2, 3]
+displ_params  [0.1, 0.1, 0.1, 0.01]
+dx[free_params.index(i)],  0.1
+1 1.0 1000000.0 -1000000.0 70.35164284768288
+1 0.5 1000000.0 1.0 52.6183924451181
+1 0.25 1000000.0 1.0 47.94183860723384
+1 0.125 1000000.0 1.0 46.740970541017305
+dx[free_params.index(i)],  0.00625
+dx[free_params.index(i)],  0.1
+3 1.0 1000000.0 -1000000.0 46.62421470781517
+dx[free_params.index(i)],  0.005
+dx  [0.1     0.00625 0.1     0.005  ]
+0
+1
+2
+3
+Weight Matrix  [[    6.72460112  -118.98007803     9.81859185    74.42152439]
+ [ -118.98007803  2631.63521019  -182.82559991 -2069.11964685]
+ [    9.81859185  -182.82559991    19.8670894     99.36813088]
+ [   74.42152439 -2069.11964685    99.36813088  2861.39351755]]
+final chi2 from NM 46.33450935810786
+trimming around  53996.182688
+maxruncount  15
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 390.40812993486236 1 1
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 99.47831206834121 2 2
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 32.418216454714184 3 3
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 28.951847106767858 4 4
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 19.847976396947743 5 5
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 17.30209865517633 6 6
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 8.717372498151988 7 7
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 7.9481599695894545 8 8
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 6.841681228516251 9 9
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 4.748828245983169 10 10
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 4.2328886453008465 11 11
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 3.9751387544695405 12 12
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 2.4305181858984213 13 13
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 1.3120755548797476 14 14
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 1.2188814472615448 15 15
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 1.0597226357747616 16 16
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.7876226491930467 17 17
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.5366416147740694 18 18
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.5337759093746328 19 19
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.47971051558171496 20 20
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.4373012498273141 21 21
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.18599815179773316 22 22
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.14644006330134118 23 23
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.14029735197243554 24 24
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.11147016867163018 25 25
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.05919765762050133 26 26
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.04888779645632013 27 27
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.043478256357737166 28 28
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.04096813310141556 29 29
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.015915087406554562 30 30
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.015875691940898662 31 31
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.014775981953576434 32 32
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.013797906482132305 33 33
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.009569169384562315 34 34
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0052694089424107915 35 35
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.005243843397323644 36 36
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.00427846522575237 37 37
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0037966267807831855 38 38
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0031591421538763598 39 39
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0031262757266929952 40 40
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0019417786605870901 41 41
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0019361455465229938 42 42
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.001556545249542296 43 43
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0014998816920339664 44 44
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.001471252695189662 45 45
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.001361306571283194 46 46
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0009797712105665823 47 47
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0008278141131228267 48 48
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0008134817707414754 49 49
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0006448753650545314 50 50
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0006107862461561808 51 51
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0005087065321234263 52 52
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0003958559263708139 53 53
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.00035357407569591714 54 54
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.00034620172565524854 55 55
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0002595616720952876 56 56
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0002213371161232658 57 57
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.0002164772944936999 58 58
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.00018318327997235428 59 59
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.00010822120646736266 60 60
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 0.00010598797658900594 61 61
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 9.15630899385178e-05 62 62
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 8.703373018903449e-05 63 63
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 8.49020477815543e-05 64 64
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 5.4305951046274004e-05 65 65
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 4.3866540430315126e-05 66 66
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 4.0595741765514504e-05 67 67
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 3.827262386835173e-05 68 68
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 3.7496247067281274e-05 69 69
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 2.4242054387002554e-05 70 70
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 2.3673960228620672e-05 71 71
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 1.97869751659141e-05 72 72
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 1.2344294560762137e-05 73 73
+[5.39871640e+04 9.77375945e+00 1.94484384e+00 4.01632979e-02] 46.302782763679886 9.104474621324243e-06 74 74
+[5.39871620e+04 9.77362007e+00 1.94486057e+00 4.00808276e-02] 46.30278225259077 5.153780989530787e-06 75 0
+[5.39871626e+04 9.77359907e+00 1.94415013e+00 4.01227794e-02] 46.30278207917566 4.719023927179933e-06 76 0
+[5.39871620e+04 9.77360419e+00 1.94496189e+00 4.01061404e-02] 46.30278030295507 2.901225450102629e-06 77 0
+[5.39871630e+04 9.77362717e+00 1.94450758e+00 4.00915416e-02] 46.302780133404895 2.6302749915885215e-06 78 0
+[5.39871632e+04 9.77368604e+00 1.94473194e+00 4.01318101e-02] 46.30277979245704 2.4601337287322167e-06 79 0
+[5.39871623e+04 9.77362459e+00 1.94472423e+00 4.00969477e-02] 46.30277969575779 2.383417864848525e-06 80 0
+[5.39871623e+04 9.77362459e+00 1.94472423e+00 4.00969477e-02] 46.30277969575779 6.071972791232838e-07 81 1
+[5.39871624e+04 9.77362148e+00 1.94478151e+00 4.01074444e-02] 46.302779292897945 8.405069493733208e-07 82 0
+[5.39871624e+04 9.77362148e+00 1.94478151e+00 4.01074444e-02] 46.302779292897945 4.995590927592275e-07 83 1
+[5.39871628e+04 9.77365688e+00 1.94471324e+00 4.01225293e-02] 46.30277926160812 4.496881160775956e-07 84 0
+[5.39871625e+04 9.77362745e+00 1.94460171e+00 4.01149509e-02] 46.30277924877038 4.490394474032655e-07 85 0
+[5.39871624e+04 9.77364006e+00 1.94476841e+00 4.01221875e-02] 46.3027792248524 4.709053911255978e-07 86 0
+[5.39871624e+04 9.77363053e+00 1.94472022e+00 4.01068629e-02] 46.30277922068001 7.221793651979169e-08 87 0
+[5.39871625e+04 9.77363011e+00 1.94474120e+00 4.01120385e-02] 46.30277912716323 1.3444489610492383e-07 88 0
+[5.39871625e+04 9.77363011e+00 1.94474120e+00 4.01120385e-02] 46.30277912716323 1.216071510157235e-07 89 1
+[5.39871625e+04 9.77363011e+00 1.94474120e+00 4.01120385e-02] 46.30277912716323 1.0755248069926893e-07 90 2
+[5.39871625e+04 9.77363011e+00 1.94474120e+00 4.01120385e-02] 46.30277912716323 9.768917408337074e-08 91 3
+[5.39871625e+04 9.77363011e+00 1.94474120e+00 4.01120385e-02] 46.30277912716323 9.351678187385914e-08 92 4
+[5.39871625e+04 9.77363011e+00 1.94474120e+00 4.01120385e-02] 46.30277912716323 2.8437263210889796e-08 93 5
+[5.39871626e+04 9.77364017e+00 1.94473468e+00 4.01160944e-02] 46.30277912424517 2.21153442225841e-08 94 0
+[5.39871626e+04 9.77364017e+00 1.94473468e+00 4.01160944e-02] 46.30277912424517 1.5724310742371017e-08 95 1
+[5.39871625e+04 9.77363464e+00 1.94473241e+00 4.01130621e-02] 46.30277911722039 2.1629979585213732e-08 96 0
+[5.39871625e+04 9.77363464e+00 1.94473241e+00 4.01130621e-02] 46.30277911722039 1.654085224345181e-08 97 1
+[5.39871625e+04 9.77363464e+00 1.94473241e+00 4.01130621e-02] 46.30277911722039 1.1893938278717542e-08 98 2
+[5.39871625e+04 9.77363749e+00 1.94476421e+00 4.01144647e-02] 46.30277911517691 1.1986315939793712e-08 99 0
+[5.39871625e+04 9.77363360e+00 1.94474192e+00 4.01134291e-02] 46.30277911111773 1.3127440467997076e-08 100 0
+[5.39871625e+04 9.77363360e+00 1.94474192e+00 4.01134291e-02] 46.30277911111773 7.304038263100665e-09 101 1
+[5.39871625e+04 9.77363360e+00 1.94474192e+00 4.01134291e-02] 46.30277911111773 6.102659710904845e-09 102 2
+[5.39871625e+04 9.77363360e+00 1.94474192e+00 4.01134291e-02] 46.30277911111773 5.977049966077175e-09 103 3
+[5.39871625e+04 9.77363360e+00 1.94474192e+00 4.01134291e-02] 46.30277911111773 4.081222471086221e-09 104 4
+[5.39871625e+04 9.77363360e+00 1.94474192e+00 4.01134291e-02] 46.30277911111773 4.059181435422943e-09 105 5
+[5.39871625e+04 9.77363360e+00 1.94474192e+00 4.01134291e-02] 46.30277911111773 1.4179022400639951e-09 106 6
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.5102443740033777e-09 107 0
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 8.935927553466172e-10 108 1
+iter F[0] 109 46.302779110829256
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 390.3934162007908 1 1
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 99.46726301437204 2 2
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 32.416219878307025 3 3
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 28.948930968960518 4 4
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 19.852743502547078 5 5
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 17.29545926763837 6 6
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 8.715406703767556 7 7
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 7.947470144202882 8 8
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 6.842040590145416 9 9
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 4.749224699980154 10 10
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 4.2312408426698624 11 11
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 3.97122360862069 12 12
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.42976200037144 13 13
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.3104597712444743 14 14
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.2180640657303954 15 15
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.0573880868537486 16 16
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.7863921533094285 17 17
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.5352965585772864 18 18
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.5327703448656678 19 19
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.48001636977655693 20 20
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.43754380457482256 21 21
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.18509592881849102 22 22
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.14640713267388605 23 23
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.13943650616323566 24 24
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.11138189570465329 25 25
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.059263550606317494 26 26
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.049313268483921036 27 27
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.04339616560313431 28 28
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.04058164420748511 29 29
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.015903688510491065 30 30
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.01584830262000736 31 31
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.015208112790531914 32 32
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.01395638911841246 33 33
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.009379963978467742 34 34
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.005441283269412622 35 35
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0051585242253224806 36 36
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.004504774321283378 37 37
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0036340631308178217 38 38
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.003396084195628646 39 39
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.003093839569039858 40 40
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0019978323541849363 41 41
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0018626796366447707 42 42
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0017136348410389246 43 43
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0015094908916353234 44 44
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.001434954535064037 45 45
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0012362165526553781 46 46
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0008121529408313677 47 47
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0008110649464043718 48 48
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00078303441571137 49 49
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0006094199497255204 50 50
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0005742746071959459 51 51
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0005608471533093962 52 52
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0005183205629677445 53 53
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00039621534605061015 54 54
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00036903483388073255 55 55
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00023339469054661777 56 56
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00022484606958528275 57 57
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.0001942213358958611 58 58
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00018323520153273876 59 59
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00017082665535639308 60 60
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00015263545231647413 61 61
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 0.00015018067517758027 62 62
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 6.688090314099782e-05 63 63
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 5.8116188291990056e-05 64 64
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 5.385137228586245e-05 65 65
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 5.283884722473431e-05 66 66
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 3.7344881427259224e-05 67 67
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.8638019543336668e-05 68 68
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.396292834561109e-05 69 69
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.375950386834802e-05 70 70
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.0631637639212386e-05 71 71
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.615160595491716e-05 72 72
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.2204478821331577e-05 73 73
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.18750823006053e-05 74 74
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.0235336404207374e-05 75 75
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.0115900956009227e-05 76 76
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 9.051426062001156e-06 77 77
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 9.02105517752716e-06 78 78
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 8.855153716069708e-06 79 79
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 4.038843876230658e-06 80 80
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 3.8022149908556457e-06 81 81
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 3.5061274346048776e-06 82 82
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 3.2680394710382643e-06 83 83
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.344947347410198e-06 84 84
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.315568778499255e-06 85 85
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.0464915522211413e-06 86 86
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.7320796956710183e-06 87 87
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.6097843342777196e-06 88 88
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.456280877221161e-06 89 89
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.288332988735874e-06 90 90
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 8.752859699256987e-07 91 91
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 7.044150081014777e-07 92 92
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 6.449258407315028e-07 93 93
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 5.976354486847413e-07 94 94
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 5.191475196397732e-07 95 95
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 4.636851542727527e-07 96 96
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 4.3159837304074244e-07 97 97
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 3.3017902012488776e-07 98 98
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.4249226981964966e-07 99 99
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.3489116074415506e-07 100 100
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.0246307030902244e-07 101 101
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.8950338187551097e-07 102 102
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.885474887330929e-07 103 103
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.175779260620402e-07 104 104
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 9.017185931270433e-08 105 105
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 7.89751553043061e-08 106 106
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 7.442839233817722e-08 107 107
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 7.382134725730793e-08 108 108
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 6.440785682571004e-08 109 109
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 5.9566673371591605e-08 110 110
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 4.845053069857386e-08 111 111
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 3.478555044011955e-08 112 112
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.4364638306906272e-08 113 113
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 2.314279612392056e-08 114 114
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.730580123648906e-08 115 115
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.485799572265023e-08 116 116
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.472909616495599e-08 117 117
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.4546763793532591e-08 118 118
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.43718708045526e-08 119 119
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 1.3568786982887104e-08 120 120
+[5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256 7.113378330814157e-09 121 121
+iter F[0] 122 46.302779110829256
+goal  0.1
+free_params  [0, 1, 2, 3]
+displ_params  [0.1, 0.1, 0.1, 0.01]
+dx[free_params.index(i)],  0.1
+1 1.0 1000000.0 -1000000.0 70.2925808521993
+1 0.5 1000000.0 1.0 52.57958319350226
+1 0.25 1000000.0 1.0 47.90833455496136
+1 0.125 1000000.0 1.0 46.7088104012932
+dx[free_params.index(i)],  0.00625
+dx[free_params.index(i)],  0.1
+3 1.0 1000000.0 -1000000.0 46.592187641029795
+dx[free_params.index(i)],  0.005
+dx  [0.1     0.00625 0.1     0.005  ]
+0
+1
+2
+3
+Weight Matrix  [[    6.71798554  -118.85088266     9.81044225    74.35923008]
+ [ -118.85088266  2628.60736426  -182.65518489 -2067.27435336]
+ [    9.81044225  -182.65518489    19.85283795    99.31910588]
+ [   74.35923008 -2067.27435336    99.31910588  2858.69729388]]
+final chi2 from NM 46.302779110829256
+P F [5.39871625e+04 9.77363458e+00 1.94474845e+00 4.01140642e-02] 46.302779110829256
+uncs [1.04617715 0.06745462 0.45392367 0.03392624]
+trimming around  53987.16247010318
+maxruncount  15
+iter F[0] 21 911.878889948038
+iter F[0] 21 911.878889948038
+maxruncount  15
+iter F[0] 61 114.19694104926005
+iter F[0] 67 114.19694104926005
+maxruncount  15
+iter F[0] 145 67.41232300253107
+iter F[0] 127 67.41232300253107
+trimming around  53987.16247010318
+maxruncount  15
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 422.8126922882359 1 1
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 111.93685716914972 2 2
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 35.114501892889336 3 3
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 30.814614120852113 4 4
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 22.012990467994996 5 5
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 21.856305055571838 6 6
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 11.802965207007006 7 7
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 9.417483655849352 8 8
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 6.287974093907877 9 9
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 5.192008195687507 10 10
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 5.125472555058707 11 11
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 3.7567775781309223 12 12
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 1.8603178682345316 13 13
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 1.7638150789395723 14 14
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 1.7525564574780716 15 15
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 1.7302327746154873 16 16
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 1.6525501312403463 17 17
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 1.296114566897387 18 18
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 0.9733149264430665 19 19
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 0.9204303261776516 20 20
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 0.6630526108486947 21 21
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 0.6389697070798235 22 22
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 0.3481134538828101 23 23
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 0.30207323272454545 24 24
+[5.39872271e+04 9.79358255e+00 1.96806414e+00 5.49169208e-02] 56.37885755592335 0.28323535629525054 25 25
+[5.39871552e+04 9.77820847e+00 1.92171074e+00 4.20852840e-02] 56.158859227110916 0.4172131988177341 26 0
+[5.39871552e+04 9.77820847e+00 1.92171074e+00 4.20852840e-02] 56.158859227110916 0.31836480642651566 27 1
+[5.39871552e+04 9.77820847e+00 1.92171074e+00 4.20852840e-02] 56.158859227110916 0.2909783395336518 28 2
+[5.39872465e+04 9.77336925e+00 1.91685890e+00 4.33964548e-02] 56.15126849261347 0.22758906330987827 29 0
+[5.39872465e+04 9.77336925e+00 1.91685890e+00 4.33964548e-02] 56.15126849261347 0.05493486417095994 30 1
+[5.39871661e+04 9.76026810e+00 1.82724725e+00 3.76306985e-02] 56.09526355756425 0.09548288323507137 31 0
+[5.39871661e+04 9.76026810e+00 1.82724725e+00 3.76306985e-02] 56.09526355756425 0.07951470358771928 32 1
+[5.39871661e+04 9.76026810e+00 1.82724725e+00 3.76306985e-02] 56.09526355756425 0.07678183225529978 33 2
+[5.39871661e+04 9.76026810e+00 1.82724725e+00 3.76306985e-02] 56.09526355756425 0.06359566954666462 34 3
+[5.39871771e+04 9.77412339e+00 1.91121894e+00 4.10764353e-02] 56.08193527853368 0.06933321407979065 35 0
+[5.39871771e+04 9.77412339e+00 1.91121894e+00 4.10764353e-02] 56.08193527853368 0.06488546716848731 36 1
+[5.39871771e+04 9.77412339e+00 1.91121894e+00 4.10764353e-02] 56.08193527853368 0.05550905540994222 37 2
+[5.39871771e+04 9.77412339e+00 1.91121894e+00 4.10764353e-02] 56.08193527853368 0.054349801128708464 38 3
+[5.39871771e+04 9.77412339e+00 1.91121894e+00 4.10764353e-02] 56.08193527853368 0.01649605134712573 39 4
+[5.39871661e+04 9.77138385e+00 1.90673661e+00 4.11840827e-02] 56.07301933324743 0.022244224316821715 40 0
+[5.39871750e+04 9.76605343e+00 1.86699485e+00 3.90778226e-02] 56.06727083419304 0.016793118436474685 41 0
+[5.39871750e+04 9.76605343e+00 1.86699485e+00 3.90778226e-02] 56.06727083419304 0.01575217258330497 42 1
+[5.39871750e+04 9.76605343e+00 1.86699485e+00 3.90778226e-02] 56.06727083419304 0.014664444340638738 43 2
+[5.39871750e+04 9.76605343e+00 1.86699485e+00 3.90778226e-02] 56.06727083419304 0.005748499054391232 44 3
+[5.39871750e+04 9.76605343e+00 1.86699485e+00 3.90778226e-02] 56.06727083419304 0.0031830434772501803 45 4
+[5.39871809e+04 9.76773663e+00 1.87712768e+00 3.79002661e-02] 56.0661417117513 0.004083271241206887 46 0
+[5.39871791e+04 9.76632354e+00 1.85975179e+00 3.88850130e-02] 56.064908758353894 0.004559576252347597 47 0
+[5.39871805e+04 9.76952802e+00 1.88652564e+00 3.96539089e-02] 56.06390911622816 0.0053436012821492795 48 0
+[5.39871605e+04 9.76644346e+00 1.86669205e+00 3.88831190e-02] 56.06326706243408 0.004003771758959829 49 0
+[5.39871605e+04 9.76644346e+00 1.86669205e+00 3.88831190e-02] 56.06326706243408 0.0035867313573945125 50 1
+[5.39871605e+04 9.76644346e+00 1.86669205e+00 3.88831190e-02] 56.06326706243408 0.002874649317220701 51 2
+[5.39871605e+04 9.76644346e+00 1.86669205e+00 3.88831190e-02] 56.06326706243408 0.0018121177856187387 52 3
+[5.39871703e+04 9.76758051e+00 1.86953310e+00 3.95982400e-02] 56.06280285034979 0.002105908004104151 53 0
+[5.39871754e+04 9.76713516e+00 1.86713087e+00 3.90477842e-02] 56.062715339090744 0.0011937771374164186 54 0
+[5.39871754e+04 9.76843830e+00 1.87809345e+00 3.93564666e-02] 56.06249448031528 0.0009973404050498402 55 0
+[5.39871729e+04 9.76781726e+00 1.87282569e+00 3.89641782e-02] 56.06229183470117 0.0009752277329084791 56 0
+[5.39871729e+04 9.76781726e+00 1.87282569e+00 3.89641782e-02] 56.06229183470117 0.0005110156486196615 57 1
+[5.39871729e+04 9.76781726e+00 1.87282569e+00 3.89641782e-02] 56.06229183470117 0.00047501933036642185 58 2
+[5.39871729e+04 9.76781726e+00 1.87282569e+00 3.89641782e-02] 56.06229183470117 0.0004235043895732815 59 3
+[5.39871738e+04 9.76744132e+00 1.87021550e+00 3.90545766e-02] 56.062276999176994 0.00021748113828579108 60 0
+[5.39871738e+04 9.76744132e+00 1.87021550e+00 3.90545766e-02] 56.062276999176994 0.00018729761061564432 61 1
+[5.39871701e+04 9.76702819e+00 1.86794922e+00 3.88006116e-02] 56.062223167312006 0.0001276577226647646 62 0
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 0.0001575153366104587 63 0
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 0.00013596826988759858 64 1
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 0.0001211327457113498 65 2
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 0.00010250144076451306 66 3
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 7.200739456436622e-05 67 4
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 6.730088072259832e-05 68 5
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 3.249142332606425e-05 69 6
+[5.39871698e+04 9.76728756e+00 1.87014419e+00 3.89914222e-02] 56.06215586643128 1.4389712518436681e-05 70 7
+[5.39871709e+04 9.76770743e+00 1.87248472e+00 3.91452546e-02] 56.0621413421453 2.172876886419317e-05 71 0
+[5.39871718e+04 9.76763263e+00 1.87214773e+00 3.90739153e-02] 56.06213833499363 2.2317619020384427e-05 72 0
+[5.39871714e+04 9.76754076e+00 1.87136933e+00 3.90085528e-02] 56.06213660496206 2.0908859454493722e-05 73 0
+[5.39871710e+04 9.76757725e+00 1.87205936e+00 3.90197387e-02] 56.062135811684996 2.0054746286746195e-05 74 0
+[5.39871706e+04 9.76745104e+00 1.87107974e+00 3.90266437e-02] 56.062131519685515 9.822459787756088e-06 75 0
+[5.39871706e+04 9.76745104e+00 1.87107974e+00 3.90266437e-02] 56.062131519685515 6.815308111640661e-06 76 1
+[5.39871706e+04 9.76745104e+00 1.87107974e+00 3.90266437e-02] 56.062131519685515 5.085276548300044e-06 77 2
+[5.39871710e+04 9.76753583e+00 1.87147931e+00 3.90209058e-02] 56.0621310954737 4.716211293498418e-06 78 0
+[5.39871710e+04 9.76753583e+00 1.87147931e+00 3.90209058e-02] 56.0621310954737 2.5519225204106988e-06 79 1
+[5.39871705e+04 9.76749313e+00 1.87125466e+00 3.90219153e-02] 56.06212972741058 2.3634468107047724e-06 80 0
+[5.39871708e+04 9.76755744e+00 1.87161755e+00 3.90589702e-02] 56.06212885286844 3.0253704181859575e-06 81 0
+[5.39871708e+04 9.76755744e+00 1.87161755e+00 3.90589702e-02] 56.06212885286844 2.6668170747257136e-06 82 1
+[5.39871708e+04 9.76755744e+00 1.87161755e+00 3.90589702e-02] 56.06212885286844 2.242605262381403e-06 83 2
+[5.39871708e+04 9.76755744e+00 1.87161755e+00 3.90589702e-02] 56.06212885286844 8.745421382627683e-07 84 3
+[5.39871708e+04 9.76755744e+00 1.87161755e+00 3.90589702e-02] 56.06212885286844 4.4907317686693204e-07 85 4
+[5.39871707e+04 9.76750508e+00 1.87125063e+00 3.90419975e-02] 56.062128687059015 5.463073904365956e-07 86 0
+[5.39871709e+04 9.76752424e+00 1.87138712e+00 3.90489973e-02] 56.0621286712872 5.173580603923256e-07 87 0
+[5.39871707e+04 9.76750575e+00 1.87131565e+00 3.90379279e-02] 56.06212866112015 4.501106474208427e-07 88 0
+[5.39871708e+04 9.76752188e+00 1.87139033e+00 3.90381902e-02] 56.06212863746512 2.1540331829328352e-07 89 0
+[5.39871708e+04 9.76753584e+00 1.87147674e+00 3.90503742e-02] 56.06212853958805 1.4747096344081e-07 90 0
+[5.39871708e+04 9.76753584e+00 1.87147674e+00 3.90503742e-02] 56.06212853958805 1.3169914581112607e-07 91 1
+[5.39871708e+04 9.76753584e+00 1.87147674e+00 3.90503742e-02] 56.06212853958805 1.2153209638654516e-07 92 2
+[5.39871708e+04 9.76753584e+00 1.87147674e+00 3.90503742e-02] 56.06212853958805 1.02047778227643e-07 93 3
+[5.39871708e+04 9.76753584e+00 1.87147674e+00 3.90503742e-02] 56.06212853958805 9.787707000441515e-08 94 4
+[5.39871708e+04 9.76753584e+00 1.87147674e+00 3.90503742e-02] 56.06212853958805 9.072596185433213e-08 95 5
+[5.39871708e+04 9.76753584e+00 1.87147674e+00 3.90503742e-02] 56.06212853958805 2.296044243621509e-08 96 6
+[5.39871708e+04 9.76752141e+00 1.87137306e+00 3.90457621e-02] 56.062128520485174 4.101638495512816e-08 97 0
+[5.39871708e+04 9.76752141e+00 1.87137306e+00 3.90457621e-02] 56.062128520485174 2.809149179938686e-08 98 1
+[5.39871708e+04 9.76752141e+00 1.87137306e+00 3.90457621e-02] 56.062128520485174 2.376273755544389e-08 99 2
+[5.39871708e+04 9.76753259e+00 1.87144272e+00 3.90506148e-02] 56.06212851822943 2.5224629496278794e-08 100 0
+[5.39871708e+04 9.76753164e+00 1.87145234e+00 3.90484356e-02] 56.06212851801357 2.3508370361469133e-08 101 0
+[5.39871708e+04 9.76752961e+00 1.87143310e+00 3.90502870e-02] 56.06212851545477 2.4133278486715426e-08 102 0
+[5.39871708e+04 9.76752179e+00 1.87137386e+00 3.90471756e-02] 56.06212851506211 5.4230611112870974e-09 103 0
+[5.39871708e+04 9.76752516e+00 1.87139928e+00 3.90474452e-02] 56.062128505290886 1.2938542681695253e-08 104 0
+[5.39871708e+04 9.76752516e+00 1.87139928e+00 3.90474452e-02] 56.062128505290886 1.2722686903998692e-08 105 1
+[5.39871708e+04 9.76752808e+00 1.87142527e+00 3.90480884e-02] 56.06212850332377 1.2131003757076542e-08 106 0
+[5.39871708e+04 9.76752808e+00 1.87142527e+00 3.90480884e-02] 56.06212850332377 1.1738343630440795e-08 107 1
+[5.39871708e+04 9.76752808e+00 1.87142527e+00 3.90480884e-02] 56.06212850332377 7.330719142828457e-09 108 2
+[5.39871708e+04 9.76752808e+00 1.87142527e+00 3.90480884e-02] 56.06212850332377 4.836358868942625e-09 109 3
+[5.39871708e+04 9.76752808e+00 1.87142527e+00 3.90480884e-02] 56.06212850332377 3.397850889541587e-09 110 4
+[5.39871708e+04 9.76752808e+00 1.87142527e+00 3.90480884e-02] 56.06212850332377 1.9671162476697646e-09 111 5
+[5.39871708e+04 9.76752573e+00 1.87140753e+00 3.90472803e-02] 56.06212850209483 2.493997897090594e-09 112 0
+[5.39871708e+04 9.76752580e+00 1.87141257e+00 3.90464932e-02] 56.06212850154246 2.301916879332566e-09 113 0
+[5.39871708e+04 9.76752580e+00 1.87141257e+00 3.90464932e-02] 56.06212850154246 2.2754989004170056e-09 114 1
+[5.39871708e+04 9.76752580e+00 1.87141257e+00 3.90464932e-02] 56.06212850154246 1.7813093222684984e-09 115 2
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 8.857767852532561e-10 116 0
+iter F[0] 117 56.06212850120905
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 415.99993470544985 1 1
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 107.15759010602088 2 2
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 33.82079296046516 3 3
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 31.668313564125803 4 4
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 24.805241462202268 5 5
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 19.30693642978222 6 6
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 12.638159238878082 7 7
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 9.796533128820336 8 8
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 5.085648004583895 9 9
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 5.027770545352126 10 10
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.793677487692108 11 11
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.552873502265477 12 12
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.026238417207168 13 13
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.3353328778624345 14 14
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.616396808267659 15 15
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.533945215302218 16 16
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.1086763624910034 17 17
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.7207633058010501 18 18
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.4889785197728713 19 19
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.4460884350377512 20 20
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.32588788374088296 21 21
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.31661213745291406 22 22
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.2534821154163396 23 23
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.24935414271303102 24 24
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.22850789988712705 25 25
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.16929819950197356 26 26
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.12534246181468944 27 27
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.11922825229303413 28 28
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.10554750826576509 29 29
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.09388884754093141 30 30
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.06415479172525096 31 31
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.06029441710663974 32 32
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.059898829464401615 33 33
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0524757359827035 34 34
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.03318821305212083 35 35
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.025422293741080182 36 36
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.02338417761787781 37 37
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.022601445903482897 38 38
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.017993040353609047 39 39
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.017016852081248146 40 40
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.016786333923697327 41 41
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.013347049167023783 42 42
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.012966902312165018 43 43
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00722830849031908 44 44
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0070382064072660455 45 45
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.006589614894380702 46 46
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0059832403314104 47 47
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.005870066074670888 48 48
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.004956163374430389 49 49
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0036190236632265282 50 50
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.003409725407138353 51 51
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0026942278849944046 52 52
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0021898803351660945 53 53
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0018572156334570877 54 54
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0014626105025214997 55 55
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0013853313382767851 56 56
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0011809079645104248 57 57
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0011777527176306535 58 58
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.001165958338908979 59 59
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.001029290529913851 60 60
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0005101205899933348 61 61
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0004806379999990895 62 62
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0004711311301335286 63 63
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.0004473485528748711 64 64
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00027664831416984725 65 65
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00024845277814478095 66 66
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00020279955204927091 67 67
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00020083189660624612 68 68
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00011622191810545246 69 69
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00011041487095297953 70 70
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 0.00011025173383671927 71 71
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 8.727590721946399e-05 72 72
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 8.411030229638072e-05 73 73
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 6.982379323261512e-05 74 74
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.038954552498808e-05 75 75
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 3.58898355727888e-05 76 76
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 3.520420973046612e-05 77 77
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 3.144375307329028e-05 78 78
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 3.0661958113853416e-05 79 79
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.66813151128531e-05 80 80
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.5365778988373222e-05 81 81
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.5261119933995815e-05 82 82
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.315175904892385e-05 83 83
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.1833732450838852e-05 84 84
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.1020332841837899e-05 85 85
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 9.992918798218398e-06 86 86
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 7.652712341155166e-06 87 87
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 3.776957996137753e-06 88 88
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.9773834810953304e-06 89 89
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.9342078633476376e-06 90 90
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.579964977655891e-06 91 91
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.309091350127801e-06 92 92
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.088061421545717e-06 93 93
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.2662706083688136e-06 94 94
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 9.886920793178433e-07 95 95
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 9.453527667346862e-07 96 96
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 9.186350027334811e-07 97 97
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 9.090837878034108e-07 98 98
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 8.484374731665412e-07 99 99
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 8.219879106263761e-07 100 100
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 7.391720302507565e-07 101 101
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 6.206440303913041e-07 102 102
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.7641506739637407e-07 103 103
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 3.910292676323479e-07 104 104
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 3.6610131104453103e-07 105 105
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.427194090159901e-07 106 106
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.8545946289805215e-07 107 107
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.4540706416710236e-07 108 108
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.3688232769482056e-07 109 109
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.1850263348378576e-07 110 110
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 7.878986707510194e-08 111 111
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 6.874876845586186e-08 112 112
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 5.844690065259783e-08 113 113
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 5.460300656068284e-08 114 114
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.908930151259483e-08 115 115
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.5139977089547756e-08 116 116
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 4.2660872168198694e-08 117 117
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.6710132772223005e-08 118 118
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 2.3392992432036408e-08 119 119
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.8982362348651804e-08 120 120
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.7332794755020586e-08 121 121
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.7142596675512323e-08 122 122
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 1.3447589708448504e-08 123 123
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.06212850120905 9.701551562102395e-09 124 124
+iter F[0] 125 56.06212850120905
+goal  0.1
+free_params  [0, 1, 2, 3]
+displ_params  [0.1, 0.1, 0.1, 0.01]
+dx[free_params.index(i)],  0.1
+1 1.0 1000000.0 -1000000.0 81.52864074904451
+1 0.5 1000000.0 1.0 62.72524054381402
+1 0.25 1000000.0 1.0 57.766464866624005
+1 0.125 1000000.0 1.0 56.493123693708014
+dx[free_params.index(i)],  0.00625
+2 1.0 1000000.0 -1000000.0 56.31020040047919
+dx[free_params.index(i)],  0.05
+3 1.0 1000000.0 -1000000.0 56.36425567491487
+dx[free_params.index(i)],  0.005
+dx  [0.1     0.00625 0.05    0.005  ]
+0
+1
+2
+3
+Weight Matrix  [[   12.5579117    -89.68924066     4.61128606    58.98526877]
+ [  -89.68924066  2790.44327507  -210.54280822 -2140.79987722]
+ [    4.61128606  -210.54280822    24.80502497   110.51691029]
+ [   58.98526877 -2140.79987722   110.51691029  2984.42251954]]
+final chi2 from NM 56.06212850120905
+trimming around  53987.16247010318
+maxruncount  15
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 418.0866750218535 1 1
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 107.7001951987862 2 2
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 34.10379924187582 3 3
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 32.15033416955798 4 4
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 24.857735601786217 5 5
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 19.399821510016395 6 6
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 12.675809584775877 7 7
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 9.968819290044664 8 8
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 5.14007060380996 9 9
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 5.047112069161614 10 10
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 4.793161034330211 11 11
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 4.514630543864797 12 12
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 4.047173044175089 13 13
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 2.3204666375004734 14 14
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 1.5957018401978615 15 15
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 1.5144024038139818 16 16
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 1.122349325161224 17 17
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.7042846614558016 18 18
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.49566835853526925 19 19
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.4323889746341223 20 20
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.329321552615383 21 21
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.32664447932177865 22 22
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.23977011540084447 23 23
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.22663501966049893 24 24
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.22596377885659535 25 25
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.1688180406006481 26 26
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.133605212667689 27 27
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.09486077018018335 28 28
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.09413691041334005 29 29
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.08839795909791803 30 30
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.06851974503440772 31 31
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.05663277245177767 32 32
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.043280857508293025 33 33
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.03923993856501795 34 34
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.03700871661794736 35 35
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.027936902436657363 36 36
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.026097562597385604 37 37
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.019133938073466084 38 38
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.01745951585650829 39 39
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.016852066715259184 40 40
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.015702604593549552 41 41
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.013800611224340287 42 42
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.011936774349990742 43 43
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.01073035616148843 44 44
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.006274038548774286 45 45
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.004942511396102134 46 46
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.00444797726794377 47 47
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.004164710664447568 48 48
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.003913066348488314 49 49
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0037935476856603145 50 50
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.003027492543367316 51 51
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0023855879254313095 52 52
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0018934761952067447 53 53
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0017254449692458707 54 54
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0011235064647010518 55 55
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.000991070354501744 56 56
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0006803561140173997 57 57
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0005041235200025085 58 58
+[5.39871708e+04 9.76752665e+00 1.87141545e+00 3.90474240e-02] 56.22531917989268 0.0003725006416672727 59 59
+[5.39871711e+04 9.76714851e+00 1.86858473e+00 3.92591952e-02] 56.225292969919806 0.0003071219931456426 60 0
+[5.39871734e+04 9.76742336e+00 1.86781122e+00 3.93697001e-02] 56.22525792679389 0.00024278069186323137 61 0
+[5.39871705e+04 9.76752736e+00 1.86948421e+00 3.95269145e-02] 56.22524077215667 9.735593942394871e-05 62 0
+[5.39871705e+04 9.76752736e+00 1.86948421e+00 3.95269145e-02] 56.22524077215667 7.840773601230921e-05 63 1
+[5.39871714e+04 9.76747109e+00 1.87047802e+00 3.91908268e-02] 56.225155901056766 0.00013706886304021282 64 0
+[5.39871714e+04 9.76747109e+00 1.87047802e+00 3.91908268e-02] 56.225155901056766 0.00010850092932912503 65 1
+[5.39871714e+04 9.76747109e+00 1.87047802e+00 3.91908268e-02] 56.225155901056766 0.00010202573712092544 66 2
+[5.39871714e+04 9.76747109e+00 1.87047802e+00 3.91908268e-02] 56.225155901056766 8.487109990085173e-05 67 3
+[5.39871712e+04 9.76759613e+00 1.87053927e+00 3.94075411e-02] 56.225137458159736 9.399089969974739e-05 68 0
+[5.39871712e+04 9.76759613e+00 1.87053927e+00 3.94075411e-02] 56.225137458159736 9.2977658567861e-05 69 1
+[5.39871712e+04 9.76759613e+00 1.87053927e+00 3.94075411e-02] 56.225137458159736 3.577086064154855e-05 70 2
+[5.39871712e+04 9.76759613e+00 1.87053927e+00 3.94075411e-02] 56.225137458159736 1.9366238667828384e-05 71 3
+[5.39871712e+04 9.76759613e+00 1.87053927e+00 3.94075411e-02] 56.225137458159736 1.8442897030013228e-05 72 4
+[5.39871717e+04 9.76753709e+00 1.87034036e+00 3.92707497e-02] 56.22513178635088 2.3291274708014953e-05 73 0
+[5.39871717e+04 9.76753709e+00 1.87034036e+00 3.92707497e-02] 56.22513178635088 1.3133865643055742e-05 74 1
+[5.39871711e+04 9.76763501e+00 1.87077527e+00 3.93555386e-02] 56.225129263031384 8.768451799312516e-06 75 0
+[5.39871711e+04 9.76763501e+00 1.87077527e+00 3.93555386e-02] 56.225129263031384 8.6407248502951e-06 76 1
+[5.39871721e+04 9.76764837e+00 1.87086666e+00 3.93388697e-02] 56.225127264141335 1.0524356866881135e-05 77 0
+[5.39871721e+04 9.76764837e+00 1.87086666e+00 3.93388697e-02] 56.225127264141335 1.0194018400966343e-05 78 1
+[5.39871714e+04 9.76759592e+00 1.87048023e+00 3.93682502e-02] 56.22512708869961 1.0000621628591944e-05 79 0
+[5.39871714e+04 9.76759592e+00 1.87048023e+00 3.93682502e-02] 56.22512708869961 4.697651270646475e-06 80 1
+[5.39871716e+04 9.76757636e+00 1.87045533e+00 3.93109591e-02] 56.22512643625114 2.826780246323324e-06 81 0
+[5.39871716e+04 9.76757636e+00 1.87045533e+00 3.93109591e-02] 56.22512643625114 2.4025893239354446e-06 82 1
+[5.39871718e+04 9.76758394e+00 1.87034784e+00 3.93322661e-02] 56.225125969078064 2.1029233749914056e-06 83 0
+[5.39871715e+04 9.76759218e+00 1.87034828e+00 3.93398009e-02] 56.225125713817945 1.5503233896652091e-06 84 0
+[5.39871718e+04 9.76761773e+00 1.87063729e+00 3.93383444e-02] 56.22512533944942 1.7492501882543365e-06 85 0
+[5.39871715e+04 9.76759424e+00 1.87046371e+00 3.93492964e-02] 56.22512521489084 1.2213603000077455e-06 86 0
+[5.39871715e+04 9.76759424e+00 1.87046371e+00 3.93492964e-02] 56.22512521489084 9.615581433308762e-07 87 1
+[5.39871715e+04 9.76759424e+00 1.87046371e+00 3.93492964e-02] 56.22512521489084 7.541872264482663e-07 88 2
+[5.39871715e+04 9.76759424e+00 1.87046371e+00 3.93492964e-02] 56.22512521489084 4.98927107628333e-07 89 3
+[5.39871718e+04 9.76762839e+00 1.87072531e+00 3.93605550e-02] 56.22512501701112 4.982254608876246e-07 90 0
+[5.39871716e+04 9.76761687e+00 1.87058403e+00 3.93546559e-02] 56.225124990166655 3.54827555781867e-07 91 0
+[5.39871716e+04 9.76762126e+00 1.87075891e+00 3.93470150e-02] 56.22512498450651 3.5494291239501763e-07 92 0
+[5.39871717e+04 9.76761646e+00 1.87063514e+00 3.93456125e-02] 56.225124873006756 3.4188408193358555e-07 93 0
+[5.39871717e+04 9.76761646e+00 1.87063514e+00 3.93456125e-02] 56.225124873006756 1.4400436754158363e-07 94 1
+[5.39871717e+04 9.76762195e+00 1.87068114e+00 3.93550164e-02] 56.225124845633545 1.4453311081297215e-07 95 0
+[5.39871716e+04 9.76761683e+00 1.87062264e+00 3.93521119e-02] 56.22512484464171 1.398647953010368e-07 96 0
+[5.39871717e+04 9.76761847e+00 1.87069304e+00 3.93489286e-02] 56.22512483562083 6.225772608559055e-08 97 0
+[5.39871716e+04 9.76761296e+00 1.87061389e+00 3.93505227e-02] 56.22512482434049 4.866626568400534e-08 98 0
+[5.39871717e+04 9.76761701e+00 1.87064391e+00 3.93486287e-02] 56.22512481079629 3.483725663500081e-08 99 0
+[5.39871717e+04 9.76761701e+00 1.87064391e+00 3.93486287e-02] 56.22512481079629 3.3845424241008004e-08 100 1
+[5.39871717e+04 9.76761701e+00 1.87064391e+00 3.93486287e-02] 56.22512481079629 2.9473234519628022e-08 101 2
+[5.39871717e+04 9.76761701e+00 1.87064391e+00 3.93486287e-02] 56.22512481079629 2.4824544198054355e-08 102 3
+[5.39871717e+04 9.76761701e+00 1.87064391e+00 3.93486287e-02] 56.22512481079629 1.3544202204229805e-08 103 4
+[5.39871717e+04 9.76761530e+00 1.87063755e+00 3.93502496e-02] 56.22512480747886 6.792447493353393e-09 104 0
+[5.39871717e+04 9.76761791e+00 1.87065865e+00 3.93509690e-02] 56.225124806423274 6.793236195790087e-09 105 0
+[5.39871717e+04 9.76761791e+00 1.87065865e+00 3.93509690e-02] 56.225124806423274 4.823775157092314e-09 106 1
+[5.39871717e+04 9.76761714e+00 1.87065713e+00 3.93498336e-02] 56.225124804902066 5.89422199936962e-09 107 0
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.815326803964126e-09 108 0
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.3528024800943967e-09 109 1
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.702797985421057e-09 110 2
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.2972130864218343e-09 111 3
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 8.979625931715418e-10 112 4
+iter F[0] 113 56.22512480412606
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 417.92757441919713 1 1
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 107.60208188828426 2 2
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 34.267986458841825 3 3
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 32.02903090290574 4 4
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 24.858866756530567 5 5
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 19.360425073320194 6 6
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 12.71070221668544 7 7
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 9.9025606454857 8 8
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 5.114508700114257 9 9
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 5.037330400540249 10 10
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.851857630660277 11 11
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.549722685140807 12 12
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.0503554559988615 13 13
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.3380946775520997 14 14
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.6167811648051824 15 15
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.546743303277978 16 16
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.1150503618016074 17 17
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.7189082002150755 18 18
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.4942085128137421 19 19
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.44900765237252216 20 20
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.3266466693271255 21 21
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.31889912420682265 22 22
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.2555833198599018 23 23
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.24899246673157904 24 24
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.22866776616343287 25 25
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.17126741190891437 26 26
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.12624948642427114 27 27
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.11990129420338036 28 28
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.10651314459877881 29 29
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.09436745721214379 30 30
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.06413189310797662 31 31
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.06084275889721624 32 32
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0602561649262654 33 33
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.05255784235458805 34 34
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.03367784415902264 35 35
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.025393299317691742 36 36
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.02348583135134419 37 37
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.022739104833611634 38 38
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.017962828867652547 39 39
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.017167421953196538 40 40
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.01689064971748877 41 41
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.013538244487918405 42 42
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.013465175151679887 43 43
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.013000069646160739 44 44
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.007238189777666548 45 45
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.007084500001973026 46 46
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.006023918685094998 47 47
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.00535120335938899 48 48
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.004582180437054717 49 49
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.004376481385087061 50 50
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0037748691012495783 51 51
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0019944544554917343 52 52
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0018394048470256052 53 53
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0016605399945532895 54 54
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0013942410799501204 55 55
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0012554856802537984 56 56
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.000983544743384357 57 57
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0009055533157606988 58 58
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0008761939631867222 59 59
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0007375292434446123 60 60
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0006068440263717889 61 61
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0003352850629880777 62 62
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0003308330457159059 63 63
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0003117349766128541 64 64
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.00028828925501755975 65 65
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.00028270657364970475 66 66
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0002797268125434016 67 67
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.00023607606640041467 68 68
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0002307915762926882 69 69
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.00021467290033427844 70 70
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.0002060694028926946 71 71
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.00012858247229274866 72 72
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 0.00010469437990678898 73 73
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 8.436812413492589e-05 74 74
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 7.041694028941947e-05 75 75
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 6.969675018098087e-05 76 76
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 5.512571030408253e-05 77 77
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.7486171599709905e-05 78 78
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.227706812225506e-05 79 79
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.146289200373076e-05 80 80
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.8958541406609584e-05 81 81
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.2564477838216135e-05 82 82
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.2265836840063002e-05 83 83
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.954128040182468e-05 84 84
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.8108408802675058e-05 85 85
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.5513416421697457e-05 86 86
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 9.10367432993553e-06 87 87
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 8.993158424175363e-06 88 88
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 8.25101379575699e-06 89 89
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 6.919419483608635e-06 90 90
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 6.46678036986259e-06 91 91
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 5.625436948264451e-06 92 92
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.792311443679864e-06 93 93
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.0557707546563506e-06 94 94
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.0134552915228596e-06 95 95
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.943864387816575e-06 96 96
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.791191121787051e-06 97 97
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.131198179711191e-06 98 98
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.960538050127525e-06 99 99
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.942350849049035e-06 100 100
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.1602227658613629e-06 101 101
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.1221731952559821e-06 102 102
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 8.11085200780326e-07 103 103
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 7.937838617522175e-07 104 104
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 7.828177643887102e-07 105 105
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 5.471026582881677e-07 106 106
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 5.109142975356917e-07 107 107
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.214911868416493e-07 108 108
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.557831860234728e-07 109 109
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.088624609404178e-07 110 110
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 2.3840332374902573e-07 111 111
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.4655433488997005e-07 112 112
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.2845386976323425e-07 113 113
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.1567865954020817e-07 114 114
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.1342908834421905e-07 115 115
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.0099733316337733e-07 116 116
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 9.460057270871403e-08 117 117
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 8.21954486696086e-08 118 118
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 7.322507400431277e-08 119 119
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 5.033457028957855e-08 120 120
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.649321994065758e-08 121 121
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 4.3420811834948836e-08 122 122
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.210512744544758e-08 123 123
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 3.051095376349622e-08 124 124
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.4469598852429044e-08 125 125
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.4456809083185362e-08 126 126
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.0783708148665028e-08 127 127
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 1.024310591901667e-08 128 128
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22512480412606 8.07264655122708e-09 129 129
+iter F[0] 130 56.22512480412606
+goal  0.1
+free_params  [0, 1, 2, 3]
+displ_params  [0.1, 0.1, 0.1, 0.01]
+dx[free_params.index(i)],  0.1
+1 1.0 1000000.0 -1000000.0 81.81437549751931
+1 0.5 1000000.0 1.0 62.92042967369251
+1 0.25 1000000.0 1.0 57.93773624033643
+1 0.125 1000000.0 1.0 56.658233129656864
+dx[free_params.index(i)],  0.00625
+2 1.0 1000000.0 -1000000.0 56.47369786702249
+dx[free_params.index(i)],  0.05
+3 1.0 1000000.0 -1000000.0 56.53112182932214
+dx[free_params.index(i)],  0.005
+dx  [0.1     0.00625 0.05    0.005  ]
+0
+1
+2
+3
+Weight Matrix  [[   12.63086395   -90.05703946     4.61636567    59.24433463]
+ [  -90.05703946  2803.85580426  -211.08117922 -2168.22418416]
+ [    4.61636567  -211.08117922    24.85904014   112.38059266]
+ [   59.24433463 -2168.22418416   112.38059266  3022.88052239]]
+final chi2 from NM 56.22512480412606
+trimming around  53987.16247010318
+maxruncount  15
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 417.95218422620616 1 1
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 107.60848751026104 2 2
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 34.26548221460531 3 3
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 32.0275128879248 4 4
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 24.864540475142704 5 5
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 19.36165658323533 6 6
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 12.713609457505626 7 7
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 9.902331605888776 8 8
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 5.114356053172081 9 9
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 5.03872968674149 10 10
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 4.851709521137835 11 11
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 4.5507782196526065 12 12
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 4.051453276610431 13 13
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.3386659750528622 14 14
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.6171369386269348 15 15
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.546854964474285 16 16
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.1150463416109133 17 17
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.7190560024713051 18 18
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.49427846459458635 19 19
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.44906618466411174 20 20
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.3266328547332904 21 21
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.3188087554327126 22 22
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.2556310985368313 23 23
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.2490187104020123 24 24
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.2287380353287034 25 25
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.17127699261006057 26 26
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.12622091378123912 27 27
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.11986152458597843 28 28
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.10651943581471102 29 29
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.09438310091184121 30 30
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.06417246987160041 31 31
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0608599871124369 32 32
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.06023635259544591 33 33
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.052601048568178044 34 34
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0336512966979825 35 35
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.02541333618736985 36 36
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.023482569703318745 37 37
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.022750162424117093 38 38
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.017943476561427474 39 39
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.017167549718308805 40 40
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.01687320034807982 41 41
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.013526964643197914 42 42
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.013456179689605108 43 43
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.012985537760371813 44 44
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.007223976182501701 45 45
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.007069875064175335 46 46
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.006013380040513994 47 47
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.005357424704243385 48 48
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00458266477696867 49 49
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.004372179485649497 50 50
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00377691359888388 51 51
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.001996229811545902 52 52
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0018337734130398076 53 53
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.001659437218229698 54 54
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0013945218653645952 55 55
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0012613398208145554 56 56
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0009835409794760608 57 57
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0009105529664168444 58 58
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.000875233778714346 59 59
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0007415946442392851 60 60
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0006048456412628411 61 61
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0003357355968489628 62 62
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00033176109501198425 63 63
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00031464362599820106 64 64
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0002895786649972365 65 65
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.0002806686750176368 66 66
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00028066025463857613 67 67
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00026631182453229485 68 68
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00024180256115613474 69 69
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00023032144676449207 70 70
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00021364409077051505 71 71
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00021260197492267707 72 72
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00012476589875376476 73 73
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 0.00010748071678534643 74 74
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 9.579076245103124e-05 75 75
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 7.687735640615756e-05 76 76
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 7.114104523964215e-05 77 77
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 7.069100483647617e-05 78 78
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 5.636657455454497e-05 79 79
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.8577498220272446e-05 80 80
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.6791357925048942e-05 81 81
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.5431514266927024e-05 82 82
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.5160016740244373e-05 83 83
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.3447792848685367e-05 84 84
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.1583265940705587e-05 85 85
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.9614651108668113e-05 86 86
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.605978426511001e-05 87 87
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.164846162282629e-05 88 88
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.0537821935940883e-05 89 89
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 6.659962814126175e-06 90 90
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 6.4155756192008084e-06 91 91
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 6.394370451801024e-06 92 92
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 5.601715180603151e-06 93 93
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 4.482585779896908e-06 94 94
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 3.249617805067828e-06 95 95
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.4718157476399938e-06 96 96
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.371431818914971e-06 97 97
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.6882351587810263e-06 98 98
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.3360393040784402e-06 99 99
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.2619772746802482e-06 100 100
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 8.806688143181418e-07 101 101
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 7.952754188522704e-07 102 102
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 6.076135079524647e-07 103 103
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 5.716266144872861e-07 104 104
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 5.000371814389837e-07 105 105
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 4.4751842409596065e-07 106 106
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 3.430725712405547e-07 107 107
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 3.3629516593691733e-07 108 108
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 3.343297549918134e-07 109 109
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.731639199282654e-07 110 110
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 2.669125365173386e-07 111 111
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.8792929523669955e-07 112 112
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.6847788231189043e-07 113 113
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.234492117418995e-07 114 114
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 1.161844096486675e-07 115 115
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 9.351555263492628e-08 116 116
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 7.364656084973831e-08 117 117
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 7.302231352923627e-08 118 118
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 6.883920633526941e-08 119 119
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 6.74394726729588e-08 120 120
+[5.39871717e+04 9.76761691e+00 1.87064568e+00 3.93495128e-02] 56.22981568216004 5.3504550123761874e-08 121 121
+[5.39871717e+04 9.76762097e+00 1.87064805e+00 3.93505206e-02] 56.22981567863464 4.2427210189543985e-08 122 0
+[5.39871717e+04 9.76762097e+00 1.87064805e+00 3.93505206e-02] 56.22981567863464 3.864695941047103e-08 123 1
+[5.39871717e+04 9.76762097e+00 1.87064805e+00 3.93505206e-02] 56.22981567863464 2.784408081879519e-08 124 2
+[5.39871717e+04 9.76762097e+00 1.87064805e+00 3.93505206e-02] 56.22981567863464 2.71544848828853e-08 125 3
+[5.39871717e+04 9.76762097e+00 1.87064805e+00 3.93505206e-02] 56.22981567863464 7.889099151725532e-09 126 4
+[5.39871717e+04 9.76761754e+00 1.87063163e+00 3.93507675e-02] 56.229815677021925 7.570712057258788e-09 127 0
+[5.39871717e+04 9.76761935e+00 1.87064885e+00 3.93514968e-02] 56.229815675967515 6.192522050696425e-09 128 0
+[5.39871717e+04 9.76761830e+00 1.87064421e+00 3.93504341e-02] 56.229815674873436 7.06047131870946e-09 129 0
+[5.39871717e+04 9.76761830e+00 1.87064421e+00 3.93504341e-02] 56.229815674873436 3.7612011283272295e-09 130 1
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 3.7963729937473545e-09 131 0
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.741963101016154e-09 132 1
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.565620604855212e-09 133 2
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.9025847564080323e-09 134 3
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.6478836073474668e-09 135 4
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 6.741984748259711e-10 136 5
+iter F[0] 137 56.22981567322555
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 417.95496912248353 1 1
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 107.61028897511827 2 2
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 34.26474527479673 3 3
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 32.027794707288926 4 4
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 24.8634950442709 5 5
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 19.36251744306238 6 6
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 12.713134051320814 7 7
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 9.90245619803968 8 8
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.1147423135806065 9 9
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.038336985372396 10 10
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 4.851453801635849 11 11
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 4.550972832141241 12 12
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 4.051253450659779 13 13
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.3388819702867707 14 14
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.6172147812985713 15 15
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.5467476666033448 16 16
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.1151486541112234 17 17
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.719176965933336 18 18
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.49425479633368496 19 19
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.44903978051512894 20 20
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.32669384945915425 21 21
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.31889563254173225 22 22
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.25564665100046113 23 23
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.2490817192434065 24 24
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.22871112167175767 25 25
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.17127809463228516 26 26
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.12625740556465104 27 27
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.11991533578627411 28 28
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.10654209631789513 29 29
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.09437969970388593 30 30
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.06414572730757584 31 31
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.06084870408083276 32 32
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.060263721596186315 33 33
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.05257042972521475 34 34
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.03367374785776889 35 35
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.025398274800487286 36 36
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.02348965035742623 37 37
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.022742283809208175 38 38
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.017967166613075847 39 39
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.01717062449055362 40 40
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.016892139523122296 41 41
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.013536251866661075 42 42
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.013471772479299204 43 43
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.013004661243336102 44 44
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.007239769059601997 45 45
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.007084892432182244 46 46
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.006027434933521647 47 47
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0053513196087280335 48 48
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.004583060304206299 49 49
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0043755483767924375 50 50
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0037766885027465946 51 51
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.001994494658852375 52 52
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0018405191436059454 53 53
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0016606870309345823 54 54
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0013951915540602045 55 55
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0012556471409723713 56 56
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0009837567431958405 57 57
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0009053109944048288 58 58
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0008765793887661744 59 59
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0008765740827882951 60 60
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0007379420889179755 61 61
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0005265748386520386 62 62
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0003350926620484529 63 63
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.00033092675901258417 64 64
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.0003116318778140226 65 65
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.00023378316684130596 66 66
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.00019566833150719276 67 67
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.00016103885251084193 68 68
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.00013648416669553853 69 69
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.00013411697715781656 70 70
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 0.00011639910629668293 71 71
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 9.218420483847467e-05 72 72
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 6.126033543552012e-05 73 73
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.8185894921791714e-05 74 74
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.475755547479366e-05 75 75
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 4.6799479505921227e-05 76 76
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 4.650117526239228e-05 77 77
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 3.759286524740446e-05 78 78
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 3.337403984460252e-05 79 79
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.8547353757346627e-05 80 80
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.5170912905991827e-05 81 81
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.2643506390807033e-05 82 82
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.1380060218234576e-05 83 83
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.5282912237069013e-05 84 84
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.042368408832317e-05 85 85
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 8.4679605052429e-06 86 86
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 8.152671910011122e-06 87 87
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 6.251091967612865e-06 88 88
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.948038563019509e-06 89 89
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.79291094737755e-06 90 90
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 4.375694651059803e-06 91 91
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 3.124165154133607e-06 92 92
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.7623542777632792e-06 93 93
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.578771763239729e-06 94 94
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.517039604299498e-06 95 95
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.969735400564332e-06 96 96
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.7772708460483955e-06 97 97
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.4037101365715898e-06 98 98
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.1248905238403495e-06 99 99
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.0594918649076135e-06 100 100
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 8.24224819950814e-07 101 101
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 7.717190513290006e-07 102 102
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 7.626937374993759e-07 103 103
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 6.535975174415398e-07 104 104
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.70730904314587e-07 105 105
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 5.492468275747342e-07 106 106
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 3.0326953037729254e-07 107 107
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.4385130359405593e-07 108 108
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.1607146294400081e-07 109 109
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.0668697686687665e-07 110 110
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.043325011413799e-07 111 111
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.214655611647686e-07 112 112
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 9.102333109467509e-08 113 113
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 9.07320654164323e-08 114 114
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 8.502356507733566e-08 115 115
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 7.314552163961707e-08 116 116
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 6.945122521528901e-08 117 117
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 6.297860721815596e-08 118 118
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 4.560875765946548e-08 119 119
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 3.6422662219592894e-08 120 120
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 3.256945291241209e-08 121 121
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.8376966554333194e-08 122 122
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 2.5051328123026906e-08 123 123
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.5111012885427044e-08 124 124
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.4932510339349392e-08 125 125
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 1.2092961299003946e-08 126 126
+[5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555 7.555776448953111e-09 127 127
+iter F[0] 128 56.22981567322555
+goal  0.1
+free_params  [0, 1, 2, 3]
+displ_params  [0.1, 0.1, 0.1, 0.01]
+dx[free_params.index(i)],  0.1
+1 1.0 1000000.0 -1000000.0 81.82062697305932
+1 0.5 1000000.0 1.0 62.92552306022512
+1 0.25 1000000.0 1.0 57.94252709864003
+1 0.125 1000000.0 1.0 56.66294778219392
+dx[free_params.index(i)],  0.00625
+2 1.0 1000000.0 -1000000.0 56.47843182185808
+dx[free_params.index(i)],  0.05
+3 1.0 1000000.0 -1000000.0 56.53579381733144
+dx[free_params.index(i)],  0.005
+dx  [0.1     0.00625 0.05    0.005  ]
+0
+1
+2
+3
+Weight Matrix  [[   12.63327621   -90.06294953     4.61679865    59.23324375]
+ [  -90.06294953  2804.02946133  -211.11235878 -2167.91664626]
+ [    4.61679865  -211.11235878    24.86370395   112.35972276]
+ [   59.23324375 -2167.91664626   112.35972276  3022.5991844 ]]
+final chi2 from NM 56.22981567322555
+P F [5.39871717e+04 9.76761953e+00 1.87064511e+00 3.93504692e-02] 56.22981567322555
+uncs [0.33839476 0.05487292 0.39616834 0.03158585]
+trimmed_lc_data lc2fl
+trimmed_lc_data date
+trimmed_lc_data flux
+trimmed_lc_data covmat
+trimmed_lc_data model_uncertainties
+trimmed_lc_data weightmat
+other_data bandpassfn
+other_data bandpasslambs
+other_data bandpasseval
+other_data magsysflux
+other_data efflamb
+other_data MagSys|Instrument|Band
+other_data daymax_guess
+other_data z_heliocentric
+other_data MWEBV
+trimmed_lc_data flux [35.82118726 47.77999535 44.52101301 27.35888057 18.74743401 15.20674303
+ 17.49079252 10.94244749  7.43766055  5.27789428  6.07054507  3.33079043
+  8.44849744 35.49254577 58.11596987 50.90270421 34.23568888 35.16467006
+ 38.58004205 45.54740092 30.5744101  23.30649849 19.62882593 18.36377214
+ 17.839171   12.74890058 37.60885377 63.47868667 58.97002291 43.79452051
+ 38.43360934 39.8356938  34.88716041 27.8217544  21.83127981 16.97621872
+ 10.31219375 15.99484474  9.83179617 10.94752048  7.47171768  5.4947325
+  4.13013736  2.218306   -2.29017095 -8.31620074  1.32628581 -0.42028412
+  2.45067866 -4.59991601 -2.00970191 85.98142937 26.16030723 16.75668568
+ 12.07944883 24.05241065 12.2896924  26.60263787 21.21002678 33.80279757
+ 13.73955391 24.91522842 17.37376421 27.65931659]
+trimmed_lc_data lc2fl ['lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat'
+ 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat'
+ 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat'
+ 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_g.dat'
+ 'lc2fit_SDSS_g.dat' 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat'
+ 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat'
+ 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat'
+ 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat'
+ 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_i.dat' 'lc2fit_SDSS_r.dat'
+ 'lc2fit_SDSS_r.dat' 'lc2fit_SDSS_r.dat' 'lc2fit_SDSS_r.dat'
+ 'lc2fit_SDSS_r.dat' 'lc2fit_SDSS_r.dat' 'lc2fit_SDSS_r.dat'
+ 'lc2fit_SDSS_r.dat' 'lc2fit_SDSS_r.dat' 'lc2fit_SDSS_r.dat'
+ 'lc2fit_SDSS_r.dat' 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat'
+ 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat'
+ 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat'
+ 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat'
+ 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat' 'lc2fit_SDSS_u.dat'
+ 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat'
+ 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat'
+ 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat'
+ 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat' 'lc2fit_SDSS_z.dat'
+ 'lc2fit_SDSS_z.dat']
+MagSys|Instrument|Band {'lc2fit_SDSS_g.dat': 'AB|SDSS|SDSS_g', 'lc2fit_SDSS_i.dat': 'AB|SDSS|SDSS_i', 'lc2fit_SDSS_r.dat': 'AB|SDSS|SDSS_r', 'lc2fit_SDSS_u.dat': 'AB|SDSS|SDSS_u', 'lc2fit_SDSS_z.dat': 'AB|SDSS|SDSS_z'}
+unique_instrument_filts ['AB|SDSS|SDSS_u', 'AB|SDSS|SDSS_i', 'AB|SDSS|SDSS_z', 'AB|SDSS|SDSS_g', 'AB|SDSS|SDSS_r']
+unique_instrument_names_counts {'SDSS': 5}
+Not enough unique instruments/bands for a comparison!
+trimming around  53987.16247010318
+maxruncount  15
+iter F[0] 107 56.04218913948329
+iter F[0] 121 56.04218913948329
+maxruncount  15
+iter F[0] 117 55.96247175169344
+iter F[0] 133 55.96247175169344
+maxruncount  15
+iter F[0] 111 55.88439759087091
+iter F[0] 127 55.88439759087091
+maxruncount  15
+iter F[0] 117 56.109788197902176
+iter F[0] 133 56.109788197902176
+maxruncount  15
+iter F[0] 126 56.227153096333936
+iter F[0] 132 56.227153096333936
+['Check', 'All|All|All', 'All', 'All', '0.998114162526035', '0.9980621274952028', '0.0029985633302365144', '0.00011686258808152328']
+lc2fl, this_d_step lc2fit_SDSS_i.dat 12.611266954553217
+maxruncount  15
+iter F[0] 98 56.49122954248071
+iter F[0] 129 56.49122954248071
+lc2fl, this_d_step lc2fit_SDSS_u.dat 9.482801508304092
+maxruncount  15
+iter F[0] 131 56.11745419355735
+iter F[0] 134 56.11745419355735
+lc2fl, this_d_step lc2fit_SDSS_z.dat 23.960200864304472
+maxruncount  15
+iter F[0] 123 56.34595464552534
+iter F[0] 128 56.34595464552534
+lc2fl, this_d_step lc2fit_SDSS_g.dat 12.475136804187137
+maxruncount  15
+iter F[0] 105 56.28006390629117
+iter F[0] 130 56.28006390629117
+lc2fl, this_d_step lc2fit_SDSS_r.dat 10.034746376147119
+maxruncount  15
+iter F[0] 113 56.233478490577326
+iter F[0] 135 56.233478490577326
+maxruncount  15
+iter F[0] 115 56.147952354003664
+iter F[0] 133 56.147952354003664
+maxruncount  15
+iter F[0] 121 56.76634717104564
+iter F[0] 135 56.76634717104564
+total_dP [-4.02458027e-03  9.98062127e-01  2.99856333e-03  1.16862588e-04]
+['Check', 'All|All|All', 'All', 'All', '0.998114162526035', '0.9980621274952028', '0.0029985633302365144', '0.00011686258808152328']
+trimming around  53987.16247010318
+Setting MB=-19.1, x1 = 0, c = 0 for derivative.
+maxruncount  15
+iter F[0] 142 0.026426462768843285
+iter F[0] 134 0.026426462768843285
+maxruncount  15
+iter F[0] 127 0.00038544988238878254
+iter F[0] 133 0.00038544988238878254
+maxruncount  15
+iter F[0] 134 0.0037390536795304857
+iter F[0] 135 0.0037390536795304857
+maxruncount  15
+iter F[0] 112 0.010980181385416371
+iter F[0] 133 0.010980181385416371
+maxruncount  15
+iter F[0] 109 0.06122139459668053
+iter F[0] 132 0.06122139459668053
+['Check', 'All|All|All', 'All', 'All', '0.9975258298076357', '1.0005972285203057', '0.011679552243503366', '0.00152166038111725']
+lc2fl, this_d_step lc2fit_SDSS_i.dat 12.611266954553217
+maxruncount  15
+iter F[0] 116 0.005990733703061224
+iter F[0] 134 0.005990733703061224
+lc2fl, this_d_step lc2fit_SDSS_u.dat 9.482801508304092
+maxruncount  15
+iter F[0] 117 0.0005257250351072913
+iter F[0] 141 0.0005257250351072913
+lc2fl, this_d_step lc2fit_SDSS_z.dat 23.960200864304472
+maxruncount  15
+iter F[0] 135 0.00012598550667998704
+iter F[0] 135 0.00012598550667998704
+lc2fl, this_d_step lc2fit_SDSS_g.dat 12.475136804187137
+maxruncount  15
+iter F[0] 120 0.016788743189297618
+iter F[0] 129 0.016788743189297618
+lc2fl, this_d_step lc2fit_SDSS_r.dat 10.034746376147119
+maxruncount  15
+iter F[0] 120 0.024509398262326367
+iter F[0] 131 0.024509398262326367
+maxruncount  15
+iter F[0] 130 0.0011570768922913059
+iter F[0] 136 0.0011570768922913059
+maxruncount  15
+iter F[0] 140 0.511975831050427
+iter F[0] 136 0.511975831050427
+total_dP [0.00935655 1.00059723 0.01167955 0.00152166]
+['Check', 'All|All|All', 'All', 'All', '0.9975258298076357', '1.0005972285203057', '0.011679552243503366', '0.00152166038111725']
+color for  6470.911003879182
+color for  6470.911003879182
+color for  3105.5346221657314
+color for  3105.5346221657314
+color for  7693.37377718964
+color for  7693.37377718964
+color for  4083.6154492582677
+color for  4083.6154492582677
+color for  5336.064622489052
+color for  5336.064622489052
+plotted_efflambs 6470.911003879182 []
+color for  6470.911003879182
+color for  6470.911003879182
+color for  6470.911003879182
+color for  6470.911003879182
+plotted_efflambs 3105.5346221657314 [6470.91100388]
+color for  3105.5346221657314
+color for  3105.5346221657314
+color for  3105.5346221657314
+color for  3105.5346221657314
+plotted_efflambs 7693.37377718964 [6470.91100388 3105.53462217]
+color for  7693.37377718964
+color for  7693.37377718964
+color for  7693.37377718964
+color for  7693.37377718964
+plotted_efflambs 4083.6154492582677 [6470.91100388 3105.53462217 7693.37377719]
+color for  4083.6154492582677
+color for  4083.6154492582677
+color for  4083.6154492582677
+color for  4083.6154492582677
+plotted_efflambs 5336.064622489052 [6470.91100388 3105.53462217 7693.37377719 4083.61544926]
+color for  5336.064622489052
+color for  5336.064622489052
+color for  5336.064622489052
+color for  5336.064622489052

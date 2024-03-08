@@ -1,0 +1,11 @@
+./model_real.pt 105 32.88 5638.5494 -1.0000
+./model_real_swift_sdss.pt 111 34.02 2392.7135 -1.0000
+./model_real_noswift.pt 125 61.61 3965.2860 -1.0000
+./model_testtest.pt 127 42.83 3610.8727 -1.0000
+./model_csp_fixed.pt 107 46.17 3570.3116 -1.0000
+./model_ab_25.pt 105 46.72 3500.4397 -1.0000
+./model_ab25.pt 105 36.18 3549.2803 -1.0000
+./model_snemofix.pt 121 57.26 3480.3577 -1.0000
+./model_snemo_2.pt 242 96.22 51.0969 -1.0000
+./model_sn_cut.pt 307 99.20 69.3640 -1.0000
+./model_snemo_3.pt 259 118.82 72.9850 -1.0000

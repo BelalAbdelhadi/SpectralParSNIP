@@ -1,0 +1,517 @@
+covariance:
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - &id001 !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - &id002 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    5TzpQpRbcz/VIiKHjSu6uymhTvG35y6/AqPYsreeYj/w7VqEFoRrv0ykl3y+lWM/1SIih40rurtB
+    hHgWxEstOJBrVnCGXqE7IVYlesoNzrtQO52GD6TTO2ZnY5J9GKC7KaFO8bfnLr+Qa1Zwhl6hO87h
+    +/U6ChY/lQv+QMRwQ7/BHYrk0UtFP86JBdjW3CC/AqPYsreeYj8hViV6yg3Ou5UL/kDEcEO/Jfno
+    oOpHhj/gY0w0uACAvwAXc+zEDlY/8O1ahBaEa79QO52GD6TTO8EdiuTRS0U/4GNMNLgAgL8cp0Cx
+    Dn+GPx9OgxrzBjQ/TKSXfL6VYz9mZ2OSfRigu86JBdjW3CC/ABdz7MQOVj8fToMa8wY0P2pvIkOi
+    SIE/
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    ERDc8TMDsj9+RWQVhjOzu15BBVR080S/uCozQ3W8dT/YOxluqAuWv9ck7jKD+H4/fkVkFYYzs7u+
+    rcTqOHL7NxF9lQ6JUZM796b6ladzsTv5ajlIEgmmO0YJpgvFFMg7XkEFVHTzRL8RfZUOiVGTO0rh
+    9cR1+jI/d7MX6YyDJT8PxNEt00pgv264mPwwNF4/uCozQ3W8dT/3pvqVp3OxO3ezF+mMgyU/P7h/
+    pMo1jT/pKOfvgB+HPxerf8MqFJQ/2DsZbqgLlr/5ajlIEgmmOw/E0S3TSmC/6Sjn74Afhz8uzk05
+    Wxq9P308sSQEOW6/1yTuMoP4fj9GCaYLxRTIO264mPwwNF4/F6t/wyoUlD99PLEkBDluv32x1uOQ
+    4rY/
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    nDMLcOmIrT+F6avaPJn0uze9mZonXUO/LqkJiJCljr+TL/21ewaSv+6ZQKfo7aW/hemr2jyZ9Lup
+    //3q1m1rOOvLb0ozLM07/tRKHHjC5jt0IJn9Cu76O+5lIBwr4ZC7N72ZmiddQ7/ry29KMyzNO5ts
+    TqtvxTM/KHUNbZmRMz+xi7J+XwBRP+PUwQRwHj+/LqkJiJCljr/+1EoceMLmOyh1DW2ZkTM/dkam
+    NJ++gT/AjrCQTQB4PzyjrDcktYY/ky/9tXsGkr90IJn9Cu76O7GLsn5fAFE/wI6wkE0AeD/xTK0s
+    m6KmP1oYgl+h+3A/7plAp+jtpb/uZSAcK+GQu+PUwQRwHj+/PKOsNyS1hj9aGIJfoftwP2vqm6Rc
+    +bY/
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    2l673Oo73z//xpaMBD6Qu51q9hUEVkC/XL08lIQrsD/pW6AEAN2wP4lCjwGWzcO//8aWjAQ+kLvk
+    5a8jn2T8Nxoh2YroAZ07XH3bAwtuwzvbrTz+FV7JOzt2DMzVPeE7nWr2FQRWQL8aIdmK6AGdO2pB
+    tLIQSkg/toNhDyfkcj/vw7wX9y13v67a1WcRDnM/XL08lIQrsD9cfdsDC27DO7aDYQ8n5HI/y9wv
+    qoq5wD/CVoohx6qzv0alNJVC14Y/6VugBADdsD/brTz+FV7JO+/DvBf3LXe/wlaKIceqs78Z7sPC
+    9IjdP5NGt8/ftnS/iUKPAZbNw787dgzM1T3hO67a1WcRDnM/RqU0lULXhj+TRrfP37Z0v9A6L1bp
+    Qec/
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    b+CuRXqe/z/YhP6q1J8WvCD8ASsKKnq/MkV/+xKK97/uUpuqmNnhv0O3/nNpVPm/2IT+qtSfFrzR
+    WSVDP9pGODkEq1xkl8I770c4GwouEzwi3wZYpcMQPAZs087CrBI8IPwBKwoqer85BKtcZJfCOz5i
+    GduNG18/8QRHX+cqaD/MF91wiaSMv8uYr6svKKA/MkV/+xKK97/vRzgbCi4TPPEER1/nKmg/vT7S
+    ufB59j/BlphB5InWPyGod4qk2/Q/7lKbqpjZ4b8i3wZYpcMQPMwX3XCJpIy/wZaYQeSJ1j8qflv5
+    W+n5P/EmQBMsVpc/Q7f+c2lU+b8GbNPOwqwSPMuYr6svKKA/Iah3iqTb9D/xJkATLFaXP/QMnk4J
+    agdA
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    IuqY3V/ypD/BV4T0nIu7u96obVlbMTI/8qngUw2Rfj8lYySo65hzv6L/Bfajdx+/wVeE9JyLu7sa
+    jBOubgE8OHUYcqDoFac70ZSL/qjM57tPL3pK8FfaOzTXRnRQEu673qhtWVsxMj91GHKg6BWnO8da
+    SF1oqBU/NWRnVPEjU7+R7QxsysdCP1hfU4sp71i/8qngUw2Rfj/RlIv+qMznuzVkZ1TxI1O/3QAD
+    8fHFqD+ub1uA7meUvzFJm3R1P6s/JWMkqOuYc79PL3pK8FfaO5HtDGzKx0I/rm9bgO5nlL/OyKQu
+    O26IP2Kgiek//5e/ov8F9qN3H78010Z0UBLuu1hfU4sp71i/MUmbdHU/qz9ioInpP/+XvxU3knzX
+    17E/
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    s2OWyePABkAhQIT+L7v/u1up4grIsmM/A6YNjqVl8r/DH3DB3QrqPwax4KqHBfm/IUCE/i+7/7uk
+    KGI7AY8mOH3Nd/Rrtrs7HWRIE2Ja/DtvyD2DqqrHu0YxoJLqBAQ8W6niCsiyYz99zXf0a7a7O+bJ
+    A6gQn2E/DXF8xNF9kT9cTxJT2KWgv5wSIe16VaA/A6YNjqVl8r8dZEgTYlr8Ow1xfMTRfZE/IyAC
+    XJ0K8z8N9zTnBFLpv+skj5Q+O/I/wx9wwd0K6j9vyD2DqqrHu1xPElPYpaC/Dfc05wRS6b8lCpft
+    eOICQBUoEF8hyPi/BrHgqocF+b9GMaCS6gQEPJwSIe16VaA/6ySPlD478j8VKBBfIcj4vxjOTcUZ
+    mARA
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    x9WY02/M+z8UBS+LLrvyu01vCFOqfIq/Wk7C7XjS278EcQCp1qmVP+97ne29u+y/FAUviy678rud
+    p9beMmglOIqXWO4+ibk7cySxuINf5DstxhSBBeEBPJYaH5YYKAY8TW8IU6p8ir+Kl1juPom5O3mU
+    rikmJ1k/j2RJMgAJgD9p5GuC+ElwP0HUBqDpDJo/Wk7C7XjS279zJLG4g1/kO49kSTIACYA/f38m
+    oLiY1T+v44dTY5m9v1KP+UuAxco/BHEAqdaplT8txhSBBeEBPGnka4L4SXA/r+OHU2OZvb826Yb1
+    CKb0PyvR6NlJr+0/73ud7b277L+WGh+WGCgGPEHUBqDpDJo/Uo/5S4DFyj8r0ejZSa/tP8USSTX6
+    WAVA
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    3pTko0wAwT/QyTRbuzayu+fFWhmar1G//2U67llFpT+UHOV9Wy+yv7BAg4Ye5IK/0Mk0W7s2srvF
+    QM/0WRf3NzUSv9rKkZ478XSMMS/kp7tYabnLFQ3SO/ZBf0+x2uA758VaGZqvUb81Er/aypGeO1Vq
+    HGNenUw/DbLg2jraP78mITEnu3Bjv0N5hbrR6IA//2U67llFpT/xdIwxL+Snuw2y4No62j+/l8AW
+    WCcEvD/zm+srTQyzvwyf/meBGaW/lBzlfVsvsr9YabnLFQ3SOyYhMSe7cGO/85vrK00Ms7+B010E
+    ip/dP16mzqC6ZtQ/sECDhh7kgr/2QX9PsdrgO0N5hbrR6IA/DJ/+Z4EZpb9eps6gumbUP16wMKoX
+    EuU/
+- !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 6
+    - 6
+  - *id002
+  - false
+  - !!binary |
+    bA3hJ+QwFkBKsB/xKHL7uzhJBSRB8IA//ppWV7KfAMCZgSFIWPasP5k1TTsPYADASrAf8Shy+7sl
+    fo9725UxOI1IP8Y3p9Q73LXc2pYCBTxjvsxgSRAFPHGjcrOaghA8OEkFJEHwgD+NSD/GN6fUO5Ii
+    k0fhtII/R5JoKa4YeL/oW/KVxS+UPx9i7bKzbbc//ppWV7KfAMDctdzalgIFPEeSaCmuGHi/XIZk
+    B4kHCEAufipkuGLPP/i9v01Gy/U/mYEhSFj2rD9jvsxgSRAFPOhb8pXFL5Q/Ln4qZLhizz+LiV+I
+    sRMKQDcd/zw82P8/mTVNOw9gAMBxo3KzmoIQPB9i7bKzbbc/+L2/TUbL9T83Hf88PNj/P/zBDp2+
+    5B1A
+mean:
+- amplitude: 7.190787552560044e-18
+  color: -0.12253403065040631
+  s1: -0.8122715317851189
+  s2: 1.1025832861899216
+  s3: 0.9973736521076028
+  t0: 55687.043394858156
+- amplitude: 1.1991044231407442e-18
+  color: -0.10067726373036814
+  s1: 0.713850451476922
+  s2: 0.3004029524916971
+  s3: -0.15436519685425656
+  t0: 55701.18566439174
+- amplitude: 1.2920041537618588e-17
+  color: 0.29589262323242094
+  s1: 1.6867994513199078
+  s2: 0.8473202953440857
+  s3: -0.8126033844511689
+  t0: 55710.63998540237
+- amplitude: 6.899063540566117e-19
+  color: -0.10536038480594705
+  s1: -1.0352350651462061
+  s2: 0.7355729094750977
+  s3: 0.5173314722953284
+  t0: 55713.18015058021
+- amplitude: 1.6981480713229058e-18
+  color: 0.011521334023592225
+  s1: 0.8145299265962108
+  s2: -0.1745141608273624
+  s3: -0.20275435824197852
+  t0: 55705.658758985126
+- amplitude: 1.1662253928596079e-17
+  color: -0.028863997552535738
+  s1: -0.7211110062269339
+  s2: 1.1284434917864605
+  s3: 0.6766749733734579
+  t0: 55703.547121565796
+- amplitude: 9.713155568929352e-19
+  color: -0.02811463495634707
+  s1: -0.05837930977045661
+  s2: -0.40371980534453455
+  s3: 1.1462924924296567
+  t0: 55711.175966899755
+- amplitude: 8.133875323752683e-19
+  color: -0.04769640511260654
+  s1: 0.21484654111167106
+  s2: 1.274014557757213
+  s3: 0.5442349801200757
+  t0: 55711.612538488116
+- amplitude: 6.850881889670637e-19
+  color: -0.12727168617322931
+  s1: -0.4355765057488148
+  s2: 0.33889431065379616
+  s3: 0.007672962511851187
+  t0: 55718.48018486855
+- amplitude: 6.654038073995099e-19
+  color: 0.04184801762789602
+  s1: 0.16827193258050938
+  s2: 0.6112853577244391
+  s3: -2.1432472147039086
+  t0: 55710.765271412376
+object_id:
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADUAAAAxAAAAMAAAADMAAAA0AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMAAAADMAAAA5AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMAAAADQAAAA2AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMAAAADcAAAAwAAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMAAAADkAAAA4AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMAAAADkAAAA5AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMQAAADIAAAA2AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMQAAADkAAAA3AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMQAAADkAAAA4AAAA
+- !!python/object/apply:numpy.core.multiarray.scalar
+  - !!python/object/apply:numpy.dtype
+    args:
+    - U9
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - 36
+    - 4
+    - 8
+  - !!binary |
+    cAAAAHMAAABjAAAAMQAAADYAAAAwAAAAMgAAADAAAAAwAAAA
+std:
+- amplitude: 2.0747661445461373e-19
+  color: 0.009169284782919992
+  s1: 0.10430415797986306
+  s2: 0.10480710969788112
+  s3: 0.0918657678326953
+  t0: 0.06874597118698364
+- amplitude: 7.100047392014232e-20
+  color: 0.017017249620272307
+  s1: 0.11942677895835543
+  s2: 0.33716971376505617
+  s3: 0.2989893350017543
+  t0: 0.2652571818375557
+- amplitude: 8.030280920083121e-19
+  color: 0.01736908481215722
+  s1: 0.09308256369939423
+  s2: 0.21026016378552245
+  s3: 0.2995704598753219
+  t0: 0.2401773920271769
+- amplitude: 7.221482029211377e-20
+  color: 0.027225927680581637
+  s1: 0.3614723808046241
+  s2: 0.6793262373651335
+  s3: 0.8525232160483875
+  t0: 0.698592921334647
+- amplitude: 3.664902272767073e-19
+  color: 0.043573607366694425
+  s1: 1.1852301842676434
+  s2: 1.272584959409969
+  s3: 1.7107821498901785
+  t0: 1.4057705455039327
+- amplitude: 2.868815906550831e-19
+  color: 0.009089450614060347
+  s1: 0.21996636365546887
+  s2: 0.10921995830146897
+  s3: 0.26400707121409833
+  t0: 0.20226633554428416
+- amplitude: 1.820629067552475e-19
+  color: 0.046379342874228444
+  s1: 1.090913138556555
+  s2: 1.5364186325736133
+  s3: 1.6044525246153658
+  t0: 1.6864710107449987
+- amplitude: 1.7735500553786466e-19
+  color: 0.039181791341525704
+  s1: 0.5809013357879472
+  s2: 1.1360175561160433
+  s3: 1.6335378735020774
+  t0: 1.318108999138318
+- amplitude: 6.512439347278675e-20
+  color: 0.02955083752454968
+  s1: 0.33081472193236194
+  s2: 0.6803399853560674
+  s3: 0.8114545889226166
+  t0: 0.36444702800898654
+- amplitude: 2.273296900289828e-19
+  color: 0.09557229576420066
+  s1: 1.7331126133614103
+  s2: 1.8054406554959013
+  s3: 2.733748961192631
+  t0: 2.3553652254420387
